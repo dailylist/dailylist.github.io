@@ -135,6 +135,642 @@ ga('send', 'pageview');
         <div class="outer">
             
             <section id="main">
+    <article id="post-2018111601" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/channels/1644859/posts/2018111601.html">코루틴 소개</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fas fa-calendar-alt"></i>
+        <a href="/channels/1644859/posts/2018111601.html">
+            <time datetime="2018-11-16T02:05:00.000Z" itemprop="datePublished">2018-11-16</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fas fa-tag"></i>
+        <a class="tag-link" href="/channels/1644859/tags/coroutine/">Coroutine</a>, <a class="tag-link" href="/channels/1644859/tags/programming/">Programming</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p>코루틴(Coroutine)이란<br>caller가 함수를 call하고, 함수가 caller에게 값을 return하면서 종료하는 것에 더해 return하는 대신 suspend(혹은 yield)하면 caller가 나중에 resume하여 중단된 지점부터 실행을 이어갈 수 있다.<br><div class="link-preview_container cqUyOs"><a href="https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407" class="link-preview" target="_blank" rel="noopener" title="코루틴 소개 – Jooyung Han (한주영) – Medium"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Fc%2F120%2F120%2F1*S7NqcOeFVpGyHgCd4V-kow.jpeg&w=600" class="preview-image" title="코루틴 소개 – Jooyung Han (한주영) – Medium"></div><div class="descriptions"><div class="og-title"><h2 title="코루틴 소개 – Jooyung Han (한주영) – Medium">코루틴 소개 – Jooyung Han (한주영) – Medium</h2></div><div class="og-description"><p title="코루틴은 suspend/resume 가능하다. 함수가 call/return되는 것과 비교하면 더 일반화된 형태라 할 수 있다. (함수는 suspend/resume이 빠진 코루틴인 셈이다.)">코루틴은 suspend/resume 가능하다. 함수가 call/return되는 것과 비교하면 더 일반화된 형태라 할 수 있다. (함수는 suspend/resume이 빠진 코루틴인 셈이다.)</p></div><div class="og-sitename"><p title="medium.com">medium.com</p></div></div></div></a></div></p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018111601.html" data-id="cjp9b2jbd008nmspvp56rbtrk" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="https://dailylist.now.sh/channels/1644859/posts/2018111601.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018111601.html">0</span>&nbsp;댓글</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
+    <article id="post-2018111501" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/channels/1644859/posts/2018111501.html">Instagram 에서 ID 샤딩하기</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fas fa-calendar-alt"></i>
+        <a href="/channels/1644859/posts/2018111501.html">
+            <time datetime="2018-11-15T02:05:00.000Z" itemprop="datePublished">2018-11-15</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fas fa-tag"></i>
+        <a class="tag-link" href="/channels/1644859/tags/database/">Database</a>, <a class="tag-link" href="/channels/1644859/tags/sharding/">Sharding</a>, <a class="tag-link" href="/channels/1644859/tags/uuid/">UUID</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p>Instagram에서 PostgreSQL를 이용하여 고유한 아이디 생성 방법을 소개하는 글입니다. 오랜 된 글입니다.<br><div class="link-preview_container cqUyOs"><a href="https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0/" class="link-preview" target="_blank" rel="noopener" title="Instagram 에서 ID 샤딩하기"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&w=600" class="preview-image" title="Instagram 에서 ID 샤딩하기"></div><div class="descriptions"><div class="og-title"><h2 title="Instagram 에서 ID 샤딩하기">Instagram 에서 ID 샤딩하기</h2></div><div class="og-description"><p title="해당 글은 sharding &amp; IDs at Instagram ( 글을 발 번역 한 것입니다. 오역에 주의하세요. 샤딩이라는 것은 데이터를 파티셔닝 하는 방법을 말합니다. 파티셔닝에는 Vertical 과 Horizontal 이 있는데, 샤딩은 같은 종류의 데이터를 서로 다른 곳에 저장하는 Horizontal Partitioning의 일종입니다.(…">해당 글은 sharding &amp; IDs at Instagram ( 글을 발 번역 한 것입니다. 오역에 주의하세요. 샤딩이라는 것은 데이터를 파티셔닝 하는 방법을 말합니다. 파티셔닝에는 Vertical 과 Horizontal 이 있는데, 샤딩은 같은 종류…</p></div><div class="og-sitename"><p title="charsyam.wordpress.com">charsyam.wordpress.com</p></div></div></div></a></div></p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018111501.html" data-id="cjp9b2jbc008mmspvfffvt1os" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="https://dailylist.now.sh/channels/1644859/posts/2018111501.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018111501.html">0</span>&nbsp;댓글</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
+    <article id="post-2018111402" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/channels/1644859/posts/2018111402.html">Easier AngularJS Routing with Angular UI Router</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fas fa-calendar-alt"></i>
+        <a href="/channels/1644859/posts/2018111402.html">
+            <time datetime="2018-11-14T04:23:00.000Z" itemprop="datePublished">2018-11-14</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fas fa-tag"></i>
+        <a class="tag-link" href="/channels/1644859/tags/angular/">Angular</a>, <a class="tag-link" href="/channels/1644859/tags/router/">Router</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p>번역문: <a href="https://github.com/nhnent/fe.javascript/wiki/Angular-UI-Router%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B3%B4%EB%8B%A4-%EC%89%AC%EC%9A%B4-AngularJS-%EB%9D%BC%EC%9A%B0%ED%8C%85" target="_blank" rel="noopener">Angular UI Router를 이용한 보다 쉬운 AngularJS 라우팅</a><br><div class="link-preview_container cqUyOs"><a href="https://www.codemag.com/article/1505061/Easier-AngularJS-Routing-with-Angular-UI-Router" class="link-preview" target="_blank" rel="noopener" title="Easier AngularJS Routing with Angular UI Router"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=www.codemag.com%2FMagazine%2FCoverLarge%2F4c839916-531d-4421-b120-dcde3f9049c9&w=600" class="preview-image" title="Easier AngularJS Routing with Angular UI Router"></div><div class="descriptions"><div class="og-title"><h2 title="Easier AngularJS Routing with Angular UI Router">Easier AngularJS Routing with Angular UI Router</h2></div><div class="og-description"><p title="Learn to use the Angular UI Router framework instead of AngularJS built-in routing to more easily change URL strings, use nested views, use named views,...">Learn to use the Angular UI Router framework instead of AngularJS built-in routing to more easily change URL strings, use nested views, use …</p></div><div class="og-sitename"><p title="codemag.com">codemag.com</p></div></div></div></a></div></p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018111402.html" data-id="cjp9b2j9b003wmspvqw5z7whf" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="https://dailylist.now.sh/channels/1644859/posts/2018111402.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018111402.html">0</span>&nbsp;댓글</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
+    <article id="post-2018111401" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/channels/1644859/posts/2018111401.html">Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fas fa-calendar-alt"></i>
+        <a href="/channels/1644859/posts/2018111401.html">
+            <time datetime="2018-11-14T01:21:00.000Z" itemprop="datePublished">2018-11-14</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fas fa-tag"></i>
+        <a class="tag-link" href="/channels/1644859/tags/bundling/">Bundling</a>, <a class="tag-link" href="/channels/1644859/tags/javascript/">JavaScript</a>, <a class="tag-link" href="/channels/1644859/tags/legacycode/">LegacyCode</a>, <a class="tag-link" href="/channels/1644859/tags/performance/">Performance</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p>번역문: <a href="https://github.com/nhnent/fe.javascript/wiki/%23182:-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EB%A7%8C-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8A%94-%ED%98%84%EB%AA%85%ED%95%9C-%EB%B2%88%EB%93%A4%EB%A7%81-%EB%B0%A9%EB%B2%95" target="_blank" rel="noopener">레거시 브라우저에만 레거시 코드를 남기는 현명한 번들링 방법</a><br><div class="link-preview_container cqUyOs"><a href="https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/" class="link-preview" target="_blank" rel="noopener" title="Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fcloud.netlifyusercontent.com%2Fassets%2F344dbf88-fdf9-42bb-adb4-46f01eedd629%2Fd37f1046-f2cb-41d0-847d-599b4f3d8025%2F01-shipping-a-modern-frontend-800w.png&w=600" class="preview-image" title="Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers"></div><div class="descriptions"><div class="og-title"><h2 title="Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers">Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers</h2></div><div class="og-description"><p title="With the marketshare of evergreen browsers rising fast and browsers launching support for new features in lockstep, is it time we rethink asset delivery for the modern web?">With the marketshare of evergreen browsers rising fast and browsers launching support for new features in lockstep, is it time we rethink as…</p></div><div class="og-sitename"><p title="smashingmagazine.com">smashingmagazine.com</p></div></div></div></a></div></p>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018111401.html" data-id="cjp9b2j9a003umspvzv0ak01m" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="https://dailylist.now.sh/channels/1644859/posts/2018111401.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018111401.html">0</span>&nbsp;댓글</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
+    <article id="post-2018111301" class="article article-type-post" itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        
+            <header class="article-header">
+                
+    
+        <h1 itemprop="name">
+            <a class="article-title" href="/channels/1644859/posts/2018111301.html">네이버 메인 페이지의 트래픽 처리</a>
+        </h1>
+    
+
+                
+                    <div class="article-meta">
+                        
+    <div class="article-date">
+        <i class="fas fa-calendar-alt"></i>
+        <a href="/channels/1644859/posts/2018111301.html">
+            <time datetime="2018-11-13T01:21:00.000Z" itemprop="datePublished">2018-11-13</time>
+        </a>
+    </div>
+
+
+                        
+                        
+    <div class="article-tag">
+        <i class="fas fa-tag"></i>
+        <a class="tag-link" href="/channels/1644859/tags/microservice/">Microservice</a>, <a class="tag-link" href="/channels/1644859/tags/naver/">Naver</a>, <a class="tag-link" href="/channels/1644859/tags/분산처리/">분산처리</a>, <a class="tag-link" href="/channels/1644859/tags/성능모니트링/">성능모니트링</a>
+    </div>
+
+                    </div>
+                
+            </header>
+        
+        
+        <div class="article-entry" itemprop="articleBody">
+        
+            
+            <p>이 글에서는 네이버 메인 페이지의 트래픽 처리에 사용하는 분산 처리 기술과 모니터링 체계를 간략하게 합니다.</p>
+<div class="link-preview_container cqUyOs"><a href="https://d2.naver.com/helloworld/6070967" class="link-preview" target="_blank" rel="noopener" title="네이버 메인 페이지의 트래픽 처리"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fd2.naver.com%2Fcontent%2Fimages%2F2018%2F11%2F------1.png&w=600" class="preview-image" title="네이버 메인 페이지의 트래픽 처리"></div><div class="descriptions"><div class="og-title"><h2 title="네이버 메인 페이지의 트래픽 처리">네이버 메인 페이지의 트래픽 처리</h2></div><div class="og-description"><p title="스마트폰이나 PC를 보유한 사람이라면 누구나 한 번 정도는 네이버 메인 페이지에 접속해 봤을 것입니다. 네이버 메인 페이지의 트래픽은 평소에도 많은 편이지만 사회적으로 주목을 받는..">스마트폰이나 PC를 보유한 사람이라면 누구나 한 번 정도는 네이버 메인 페이지에 접속해 봤을 것입니다. 네이버 메인 페이지의 트래픽은 평소에도 많은 편이지만 사회적으로 주목을 받는..</p></div><div class="og-sitename"><p title="d2.naver.com">d2.naver.com</p></div></div></div></a></div>
+
+        
+        </div>
+        <footer class="article-footer">
+            <div class="share-container">
+
+
+
+</div>
+
+    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018111301.html" data-id="cjp9b2j97003rmspv0xqdaz4o" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
+<script>
+    (function ($) {
+        // Prevent duplicate binding
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+</script>
+
+            
+    
+        <a href="https://dailylist.now.sh/channels/1644859/posts/2018111301.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018111301.html">0</span>&nbsp;댓글</a>
+    
+
+        </footer>
+    </div>
+    
+</article>
+
+
+
     <article id="post-2018110601" class="article article-type-post" itemscope itemprop="blogPost">
     <div class="article-inner">
         
@@ -2183,697 +2819,6 @@ ga('send', 'pageview');
 
 
 
-    <article id="post-2018101601" class="article article-type-post" itemscope itemprop="blogPost">
-    <div class="article-inner">
-        
-            
-	
-		<a href="/channels/1644859/posts/2018101601.html" itemprop="url">
-            <img src="https://coresos-phinf.pstatic.net/a/302h03/h_j24Ud018svcxr3t3llc9cuc_ryi36r.jpg" class="article-banner" />
-        </a>
-	
-
-
-
-        
-        
-            <header class="article-header">
-                
-    
-        <h1 itemprop="name">
-            <a class="article-title" href="/channels/1644859/posts/2018101601.html">Vue.js Tutorial: From jQuery to Vue.js</a>
-        </h1>
-    
-
-                
-                    <div class="article-meta">
-                        
-    <div class="article-date">
-        <i class="fas fa-calendar-alt"></i>
-        <a href="/channels/1644859/posts/2018101601.html">
-            <time datetime="2018-10-16T01:42:00.000Z" itemprop="datePublished">2018-10-16</time>
-        </a>
-    </div>
-
-
-                        
-                        
-    <div class="article-tag">
-        <i class="fas fa-tag"></i>
-        <a class="tag-link" href="/channels/1644859/tags/tutorial/">Tutorial</a>, <a class="tag-link" href="/channels/1644859/tags/vue-js/">Vue.js</a>, <a class="tag-link" href="/channels/1644859/tags/jquery/">jQuery</a>
-    </div>
-
-                    </div>
-                
-            </header>
-        
-        
-        <div class="article-entry" itemprop="articleBody">
-        
-            
-            <p>jQuery vs. Vue.js</p>
-<blockquote><p>As far as JavaScript libraries are concerned, there’s never been a more popular library than jQuery. It made (and still does) DOM traversal a cinch using CSS selectors at a time when browser compatibility was a significant issue for developers. In fact, jQuery is so universal that I thought it would be a great way to segue into why I love writing UIs with Vue us …</p>
-<footer><strong>laravel-news.com</strong><cite><a href="https://laravel-news.com/jquery-vue" target="_blank" rel="noopener">[Vue.js Tutorial: From jQuery to Vue.js</a></cite></footer></blockquote>
-
-        
-        </div>
-        <footer class="article-footer">
-            <div class="share-container">
-
-
-
-</div>
-
-    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018101601.html" data-id="cjp9b2j8m0030mspvmaoqj4ta" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
-<script>
-    (function ($) {
-        // Prevent duplicate binding
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-</script>
-
-            
-    
-        <a href="https://dailylist.now.sh/channels/1644859/posts/2018101601.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018101601.html">0</span>&nbsp;댓글</a>
-    
-
-        </footer>
-    </div>
-    
-</article>
-
-
-
-    <article id="post-2018101503" class="article article-type-post" itemscope itemprop="blogPost">
-    <div class="article-inner">
-        
-            
-	
-		<a href="/channels/1644859/posts/2018101503.html" itemprop="url">
-            <img src="https://coresos-phinf.pstatic.net/a/302gi3/j_f15Ud018svccxveq3whzmzi_ryi36r.png" class="article-banner" />
-        </a>
-	
-
-
-
-        
-        
-            <header class="article-header">
-                
-    
-        <h1 itemprop="name">
-            <a class="article-title" href="/channels/1644859/posts/2018101503.html">[Web] [번역] 10 Ways to Minimize Reflows and Improve Performance | MINJUNG</a>
-        </h1>
-    
-
-                
-                    <div class="article-meta">
-                        
-    <div class="article-date">
-        <i class="fas fa-calendar-alt"></i>
-        <a href="/channels/1644859/posts/2018101503.html">
-            <time datetime="2018-10-15T07:21:00.000Z" itemprop="datePublished">2018-10-15</time>
-        </a>
-    </div>
-
-
-                        
-                        
-    <div class="article-tag">
-        <i class="fas fa-tag"></i>
-        <a class="tag-link" href="/channels/1644859/tags/javascript/">JavaScript</a>, <a class="tag-link" href="/channels/1644859/tags/performance/">Performance</a>
-    </div>
-
-                    </div>
-                
-            </header>
-        
-        
-        <div class="article-entry" itemprop="articleBody">
-        
-            
-            <blockquote><p>Reflow 최소화와 성능 향상의 10가지 방법</p>
-<footer><strong>minjung-jeon.github.io</strong><cite><a href="https://minjung-jeon.github.io/10-Ways-to-Minimize-Reflows-and-Improve-Performance/" target="_blank" rel="noopener">[Web] [번역] 10 Ways to Minimize Reflows and Improve Performance | MINJUNG</a></cite></footer></blockquote>
-
-        
-        </div>
-        <footer class="article-footer">
-            <div class="share-container">
-
-
-
-</div>
-
-    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018101503.html" data-id="cjp9b2j8j002xmspvsilpmkog" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
-<script>
-    (function ($) {
-        // Prevent duplicate binding
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-</script>
-
-            
-    
-        <a href="https://dailylist.now.sh/channels/1644859/posts/2018101503.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018101503.html">0</span>&nbsp;댓글</a>
-    
-
-        </footer>
-    </div>
-    
-</article>
-
-
-
-    <article id="post-2018101502" class="article article-type-post" itemscope itemprop="blogPost">
-    <div class="article-inner">
-        
-            
-	
-		<a href="/channels/1644859/posts/2018101502.html" itemprop="url">
-            <img src="https://coresos-phinf.pstatic.net/a/302g6i/j_10aUd018svckvw64syxi8pm_ryi36r.jpg" class="article-banner" />
-        </a>
-	
-
-
-
-        
-        
-            <header class="article-header">
-                
-    
-        <h1 itemprop="name">
-            <a class="article-title" href="/channels/1644859/posts/2018101502.html">How to Choose the Best Static Site Generator in 2018</a>
-        </h1>
-    
-
-                
-                    <div class="article-meta">
-                        
-    <div class="article-date">
-        <i class="fas fa-calendar-alt"></i>
-        <a href="/channels/1644859/posts/2018101502.html">
-            <time datetime="2018-10-15T06:45:00.000Z" itemprop="datePublished">2018-10-15</time>
-        </a>
-    </div>
-
-
-                        
-                        
-    <div class="article-tag">
-        <i class="fas fa-tag"></i>
-        <a class="tag-link" href="/channels/1644859/tags/gatsby/">Gatsby</a>, <a class="tag-link" href="/channels/1644859/tags/hexo/">Hexo</a>, <a class="tag-link" href="/channels/1644859/tags/hugo/">Hugo</a>, <a class="tag-link" href="/channels/1644859/tags/jamstack/">JAMstack</a>, <a class="tag-link" href="/channels/1644859/tags/jekyll/">Jekyll</a>, <a class="tag-link" href="/channels/1644859/tags/next-js/">Next.js</a>, <a class="tag-link" href="/channels/1644859/tags/nuxt-js/">Nuxt.js</a>, <a class="tag-link" href="/channels/1644859/tags/react/">React</a>, <a class="tag-link" href="/channels/1644859/tags/ssg/">SSG</a>, <a class="tag-link" href="/channels/1644859/tags/vue-js/">Vue.js</a>, <a class="tag-link" href="/channels/1644859/tags/static-site-generator/">static-site-generator</a>
-    </div>
-
-                    </div>
-                
-            </header>
-        
-        
-        <div class="article-entry" itemprop="articleBody">
-        
-            
-            <p>Jekyll, Gatsby, Hugo, Next.js, Nuxt.js.<br>But I still like Hexo.<br><blockquote><p>So.</p>
-<footer><strong>Mathieu Dionne, medium.com</strong><cite><a href="https://medium.com/dailyjs/how-to-choose-the-best-static-site-generator-in-2018-98bff61c8184" target="_blank" rel="noopener">How to Choose the Best Static Site Generator in 2018</a></cite></footer></blockquote></p>
-
-        
-        </div>
-        <footer class="article-footer">
-            <div class="share-container">
-
-
-
-</div>
-
-    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018101502.html" data-id="cjp9b2j8i002vmspvw6pkd2v1" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
-<script>
-    (function ($) {
-        // Prevent duplicate binding
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-</script>
-
-            
-    
-        <a href="https://dailylist.now.sh/channels/1644859/posts/2018101502.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018101502.html">0</span>&nbsp;댓글</a>
-    
-
-        </footer>
-    </div>
-    
-</article>
-
-
-
-    <article id="post-2018101501" class="article article-type-post" itemscope itemprop="blogPost">
-    <div class="article-inner">
-        
-            
-	
-		<a href="/channels/1644859/posts/2018101501.html" itemprop="url">
-            <img src="https://coresos-phinf.pstatic.net/a/302g26/1_g05Ud018svc8iqon4u9g1ba_ryi36r.jpg" class="article-banner" />
-        </a>
-	
-
-
-
-        
-        
-            <header class="article-header">
-                
-    
-        <h1 itemprop="name">
-            <a class="article-title" href="/channels/1644859/posts/2018101501.html">TypeScript with Babel: A Beautiful Marriage – DailyJS – Medium</a>
-        </h1>
-    
-
-                
-                    <div class="article-meta">
-                        
-    <div class="article-date">
-        <i class="fas fa-calendar-alt"></i>
-        <a href="/channels/1644859/posts/2018101501.html">
-            <time datetime="2018-10-15T06:25:00.000Z" itemprop="datePublished">2018-10-15</time>
-        </a>
-    </div>
-
-
-                        
-                        
-    <div class="article-tag">
-        <i class="fas fa-tag"></i>
-        <a class="tag-link" href="/channels/1644859/tags/babel/">Babel</a>, <a class="tag-link" href="/channels/1644859/tags/typescript/">TypeScript</a>, <a class="tag-link" href="/channels/1644859/tags/webpack/">Webpack</a>
-    </div>
-
-                    </div>
-                
-            </header>
-        
-        
-        <div class="article-entry" itemprop="articleBody">
-        
-            
-            <blockquote><p>TypeScript has never been easier thanks to the brand new TypeScript plugin for Babel.</p>
-<footer><strong>Matt Turnbull, medium.com</strong><cite><a href="https://medium.com/dailyjs/typescript-babel-ce24f724398" target="_blank" rel="noopener">TypeScript with Babel: A Beautiful Marriage – DailyJS – Medium</a></cite></footer></blockquote>
-
-        
-        </div>
-        <footer class="article-footer">
-            <div class="share-container">
-
-
-
-</div>
-
-    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018101501.html" data-id="cjp9b2j7f0005mspv9o5x5z2m" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
-<script>
-    (function ($) {
-        // Prevent duplicate binding
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-</script>
-
-            
-    
-        <a href="https://dailylist.now.sh/channels/1644859/posts/2018101501.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018101501.html">0</span>&nbsp;댓글</a>
-    
-
-        </footer>
-    </div>
-    
-</article>
-
-
-
-    <article id="post-2018100902" class="article article-type-post" itemscope itemprop="blogPost">
-    <div class="article-inner">
-        
-            
-	
-		<a href="/channels/1644859/posts/2018100902.html" itemprop="url">
-            <img src="https://coresos-phinf.pstatic.net/a/30281j/3_cjjUd018svcndkcq2e5l0ku_ryi36r.png" class="article-banner" />
-        </a>
-	
-
-
-
-        
-        
-            <header class="article-header">
-                
-    
-        <h1 itemprop="name">
-            <a class="article-title" href="/channels/1644859/posts/2018100902.html">배민찬은 Vue를 어떻게 사용하나요? - 우아한형제들 기술 블로그</a>
-        </h1>
-    
-
-                
-                    <div class="article-meta">
-                        
-    <div class="article-date">
-        <i class="fas fa-calendar-alt"></i>
-        <a href="/channels/1644859/posts/2018100902.html">
-            <time datetime="2018-10-09T08:31:00.000Z" itemprop="datePublished">2018-10-09</time>
-        </a>
-    </div>
-
-
-                        
-                        
-    <div class="article-tag">
-        <i class="fas fa-tag"></i>
-        <a class="tag-link" href="/channels/1644859/tags/vue-js/">Vue.js</a>
-    </div>
-
-                    </div>
-                
-            </header>
-        
-        
-        <div class="article-entry" itemprop="articleBody">
-        
-            
-            <blockquote><p>이 글은 제이쿼리, PHP 기반의 쇼핑몰 서비스에 Vue를 도입한 사례를 정리한 내용입니다.서비스에 Vue 도입을 고민 중이신 분들을 위해 경험기를 공유합니다.</p>
-<footer><strong>우아한형제들 기술 블로그, woowabros.github.io</strong><cite><a href="http://woowabros.github.io/experience/2018/06/07/vue-story-of-baminchan.html" target="_blank" rel="noopener">배민찬은 Vue를 어떻게 사용하나요? - 우아한형제들 기술 블로그</a></cite></footer></blockquote>
-
-        
-        </div>
-        <footer class="article-footer">
-            <div class="share-container">
-
-
-
-</div>
-
-    <a data-url="https://dailylist.now.sh/channels/1644859/posts/2018100902.html" data-id="cjp9b2j8p0032mspvtb0eatrq" class="article-share-link"><i class="fas fa-share"></i>공유하기</a>
-<script>
-    (function ($) {
-        // Prevent duplicate binding
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fab fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fab fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fab fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fab fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-</script>
-
-            
-    
-        <a href="https://dailylist.now.sh/channels/1644859/posts/2018100902.html#comments" class="article-comment-link"><span class="fb-comments-count" data-href="https://dailylist.now.sh/channels/1644859/posts/2018100902.html">0</span>&nbsp;댓글</a>
-    
-
-        </footer>
-    </div>
-    
-</article>
-
-
-
     <nav id="page-nav">
         <a class="extend prev" rel="prev" href="/channels/1644859/">&laquo; 이전</a><a class="page-number" href="/channels/1644859/">1</a><span class="page-number current">2</span><a class="page-number" href="/channels/1644859/page/3/">3</a><a class="extend next" rel="next" href="/channels/1644859/page/3/">다음 &raquo;</a>
     </nav>
@@ -2887,6 +2832,44 @@ ga('send', 'pageview');
         <h3 class="widget-title">최근 글</h3>
         <div class="widget">
             <ul id="recent-post" class="">
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/channels/1644859/posts/2018120502.html" class="thumbnail">
+    
+    
+        <span class="thumbnail-image thumbnail-none"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"></p>
+                            <p class="item-title"><a href="/channels/1644859/posts/2018120502.html" class="title">[번역] TypeScript at Google</a></p>
+                            <p class="item-date"><time datetime="2018-12-05T06:22:00.000Z" itemprop="datePublished">2018-12-05</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/channels/1644859/posts/2018120501.html" class="thumbnail">
+    
+    
+        <span class="thumbnail-image thumbnail-none"></span>
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"></p>
+                            <p class="item-title"><a href="/channels/1644859/posts/2018120501.html" class="title">The State of JavaScript 2018: Introduction</a></p>
+                            <p class="item-date"><time datetime="2018-12-05T01:11:00.000Z" itemprop="datePublished">2018-12-05</time></p>
+                        </div>
+                    </li>
                 
                     <li>
                         
@@ -2945,44 +2928,6 @@ ga('send', 'pageview');
                         </div>
                     </li>
                 
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/channels/1644859/posts/2018120101.html" class="thumbnail">
-    
-    
-        <span class="thumbnail-image thumbnail-none"></span>
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"></p>
-                            <p class="item-title"><a href="/channels/1644859/posts/2018120101.html" class="title">배달의민족 면접에서 듣게 되는 질문 65가지(2018년 ver.)</a></p>
-                            <p class="item-date"><time datetime="2018-12-01T03:10:00.000Z" itemprop="datePublished">2018-12-01</time></p>
-                        </div>
-                    </li>
-                
-                    <li>
-                        
-                        <div class="item-thumbnail">
-                            <a href="/channels/1644859/posts/2018113003.html" class="thumbnail">
-    
-    
-        <span class="thumbnail-image thumbnail-none"></span>
-    
-</a>
-
-                        </div>
-                        
-                        <div class="item-inner">
-                            <p class="item-category"></p>
-                            <p class="item-title"><a href="/channels/1644859/posts/2018113003.html" class="title">Mobile App Design Trends Of 2019: Revamp Your App Identity</a></p>
-                            <p class="item-date"><time datetime="2018-11-30T06:13:00.000Z" itemprop="datePublished">2018-11-30</time></p>
-                        </div>
-                    </li>
-                
             </ul>
         </div>
     </div>
@@ -2992,7 +2937,7 @@ ga('send', 'pageview');
     <div class="widget-wrap">
         <h3 class="widget-title">태그 클라우드</h3>
         <div class="widget tagcloud">
-            <a href="/channels/1644859/tags/aws/" style="font-size: 11.25px;">AWS</a> <a href="/channels/1644859/tags/ajax/" style="font-size: 10px;">Ajax</a> <a href="/channels/1644859/tags/angular/" style="font-size: 17.5px;">Angular</a> <a href="/channels/1644859/tags/angularjs/" style="font-size: 12.5px;">AngularJS</a> <a href="/channels/1644859/tags/architecturalpattern/" style="font-size: 10px;">ArchitecturalPattern</a> <a href="/channels/1644859/tags/asynchronous/" style="font-size: 11.25px;">Asynchronous</a> <a href="/channels/1644859/tags/babel/" style="font-size: 10px;">Babel</a> <a href="/channels/1644859/tags/backend/" style="font-size: 11.25px;">Backend</a> <a href="/channels/1644859/tags/bower/" style="font-size: 10px;">Bower</a> <a href="/channels/1644859/tags/bundling/" style="font-size: 10px;">Bundling</a> <a href="/channels/1644859/tags/cleancode/" style="font-size: 10px;">CleanCode</a> <a href="/channels/1644859/tags/codesplitting/" style="font-size: 10px;">CodeSplitting</a> <a href="/channels/1644859/tags/conference/" style="font-size: 10px;">Conference</a> <a href="/channels/1644859/tags/coroutine/" style="font-size: 10px;">Coroutine</a> <a href="/channels/1644859/tags/database/" style="font-size: 10px;">Database</a> <a href="/channels/1644859/tags/designpattern/" style="font-size: 11.25px;">DesignPattern</a> <a href="/channels/1644859/tags/devops/" style="font-size: 10px;">DevOps</a> <a href="/channels/1644859/tags/ecmascript/" style="font-size: 13.75px;">ECMAScript</a> <a href="/channels/1644859/tags/electron/" style="font-size: 10px;">Electron</a> <a href="/channels/1644859/tags/for2019/" style="font-size: 12.5px;">For2019</a> <a href="/channels/1644859/tags/gatsby/" style="font-size: 10px;">Gatsby</a> <a href="/channels/1644859/tags/golang/" style="font-size: 10px;">GoLang</a> <a href="/channels/1644859/tags/hexo/" style="font-size: 10px;">Hexo</a> <a href="/channels/1644859/tags/highjacking/" style="font-size: 10px;">Highjacking</a> <a href="/channels/1644859/tags/hugo/" style="font-size: 10px;">Hugo</a> <a href="/channels/1644859/tags/interviewquestion/" style="font-size: 10px;">InterViewQuestion</a> <a href="/channels/1644859/tags/jamstack/" style="font-size: 10px;">JAMstack</a> <a href="/channels/1644859/tags/json/" style="font-size: 10px;">JSON</a> <a href="/channels/1644859/tags/java/" style="font-size: 12.5px;">Java</a> <a href="/channels/1644859/tags/javascript/" style="font-size: 20px;">JavaScript</a> <a href="/channels/1644859/tags/jekyll/" style="font-size: 10px;">Jekyll</a> <a href="/channels/1644859/tags/jobinterview/" style="font-size: 10px;">JobInterview</a> <a href="/channels/1644859/tags/kakao/" style="font-size: 10px;">Kakao</a> <a href="/channels/1644859/tags/lambda/" style="font-size: 11.25px;">Lambda</a> <a href="/channels/1644859/tags/legacycode/" style="font-size: 10px;">LegacyCode</a> <a href="/channels/1644859/tags/loadbalancing/" style="font-size: 10px;">LoadBalancing</a> <a href="/channels/1644859/tags/localstorage/" style="font-size: 10px;">LocalStorage</a> <a href="/channels/1644859/tags/microservice/" style="font-size: 12.5px;">Microservice</a> <a href="/channels/1644859/tags/mobileapp/" style="font-size: 12.5px;">MobileApp</a> <a href="/channels/1644859/tags/nw-js/" style="font-size: 10px;">NW.js</a> <a href="/channels/1644859/tags/nativescript/" style="font-size: 10px;">NativeScript</a> <a href="/channels/1644859/tags/naver/" style="font-size: 11.25px;">Naver</a> <a href="/channels/1644859/tags/network/" style="font-size: 10px;">Network</a> <a href="/channels/1644859/tags/next-js/" style="font-size: 10px;">Next.js</a> <a href="/channels/1644859/tags/node-js/" style="font-size: 15px;">Node.js</a> <a href="/channels/1644859/tags/nuxt-js/" style="font-size: 10px;">Nuxt.js</a> <a href="/channels/1644859/tags/php/" style="font-size: 10px;">PHP</a> <a href="/channels/1644859/tags/pwa/" style="font-size: 10px;">PWA</a> <a href="/channels/1644859/tags/parcel/" style="font-size: 10px;">Parcel</a> <a href="/channels/1644859/tags/performance/" style="font-size: 12.5px;">Performance</a> <a href="/channels/1644859/tags/polymer/" style="font-size: 10px;">Polymer</a> <a href="/channels/1644859/tags/programming/" style="font-size: 16.25px;">Programming</a> <a href="/channels/1644859/tags/python/" style="font-size: 11.25px;">Python</a> <a href="/channels/1644859/tags/react/" style="font-size: 17.5px;">React</a> <a href="/channels/1644859/tags/reactjs/" style="font-size: 10px;">ReactJS</a> <a href="/channels/1644859/tags/reactnative/" style="font-size: 10px;">ReactNative</a> <a href="/channels/1644859/tags/reactivity/" style="font-size: 10px;">Reactivity</a> <a href="/channels/1644859/tags/router/" style="font-size: 10px;">Router</a> <a href="/channels/1644859/tags/ruby/" style="font-size: 10px;">Ruby</a> <a href="/channels/1644859/tags/ssg/" style="font-size: 10px;">SSG</a> <a href="/channels/1644859/tags/security/" style="font-size: 11.25px;">Security</a> <a href="/channels/1644859/tags/serverless/" style="font-size: 11.25px;">Serverless</a> <a href="/channels/1644859/tags/sharding/" style="font-size: 10px;">Sharding</a> <a href="/channels/1644859/tags/systemjs/" style="font-size: 10px;">SystemJS</a> <a href="/channels/1644859/tags/tutorial/" style="font-size: 11.25px;">Tutorial</a> <a href="/channels/1644859/tags/typescript/" style="font-size: 13.75px;">TypeScript</a> <a href="/channels/1644859/tags/uidesign/" style="font-size: 10px;">UIDesign</a> <a href="/channels/1644859/tags/uuid/" style="font-size: 10px;">UUID</a> <a href="/channels/1644859/tags/uxdesign/" style="font-size: 12.5px;">UXDesign</a> <a href="/channels/1644859/tags/vue-js/" style="font-size: 18.75px;">Vue.js</a> <a href="/channels/1644859/tags/webcomponents/" style="font-size: 10px;">WebComponents</a> <a href="/channels/1644859/tags/webvr/" style="font-size: 10px;">WebVR</a> <a href="/channels/1644859/tags/webxr/" style="font-size: 10px;">WebXR</a> <a href="/channels/1644859/tags/webpack/" style="font-size: 10px;">Webpack</a> <a href="/channels/1644859/tags/yarn/" style="font-size: 10px;">Yarn</a> <a href="/channels/1644859/tags/jquery/" style="font-size: 11.25px;">jQuery</a> <a href="/channels/1644859/tags/jspm/" style="font-size: 10px;">jspm</a> <a href="/channels/1644859/tags/modules/" style="font-size: 11.25px;">modules</a> <a href="/channels/1644859/tags/npm/" style="font-size: 10px;">npm</a> <a href="/channels/1644859/tags/pnpm/" style="font-size: 10px;">pnpm</a> <a href="/channels/1644859/tags/static-site-generator/" style="font-size: 10px;">static-site-generator</a> <a href="/channels/1644859/tags/webpack/" style="font-size: 11.25px;">webpack</a> <a href="/channels/1644859/tags/분산처리/" style="font-size: 10px;">분산처리</a> <a href="/channels/1644859/tags/성능모니트링/" style="font-size: 10px;">성능모니트링</a>
+            <a href="/channels/1644859/tags/aws/" style="font-size: 11.43px;">AWS</a> <a href="/channels/1644859/tags/ajax/" style="font-size: 10px;">Ajax</a> <a href="/channels/1644859/tags/angular/" style="font-size: 17.14px;">Angular</a> <a href="/channels/1644859/tags/angularjs/" style="font-size: 12.86px;">AngularJS</a> <a href="/channels/1644859/tags/architecturalpattern/" style="font-size: 10px;">ArchitecturalPattern</a> <a href="/channels/1644859/tags/asynchronous/" style="font-size: 11.43px;">Asynchronous</a> <a href="/channels/1644859/tags/babel/" style="font-size: 10px;">Babel</a> <a href="/channels/1644859/tags/backend/" style="font-size: 11.43px;">Backend</a> <a href="/channels/1644859/tags/bower/" style="font-size: 10px;">Bower</a> <a href="/channels/1644859/tags/bundling/" style="font-size: 10px;">Bundling</a> <a href="/channels/1644859/tags/cleancode/" style="font-size: 10px;">CleanCode</a> <a href="/channels/1644859/tags/codesplitting/" style="font-size: 10px;">CodeSplitting</a> <a href="/channels/1644859/tags/conference/" style="font-size: 10px;">Conference</a> <a href="/channels/1644859/tags/coroutine/" style="font-size: 10px;">Coroutine</a> <a href="/channels/1644859/tags/database/" style="font-size: 10px;">Database</a> <a href="/channels/1644859/tags/designpattern/" style="font-size: 11.43px;">DesignPattern</a> <a href="/channels/1644859/tags/devops/" style="font-size: 10px;">DevOps</a> <a href="/channels/1644859/tags/ecmascript/" style="font-size: 14.29px;">ECMAScript</a> <a href="/channels/1644859/tags/electron/" style="font-size: 10px;">Electron</a> <a href="/channels/1644859/tags/express/" style="font-size: 10px;">Express</a> <a href="/channels/1644859/tags/for2018/" style="font-size: 10px;">For2018</a> <a href="/channels/1644859/tags/for2019/" style="font-size: 12.86px;">For2019</a> <a href="/channels/1644859/tags/gatsby/" style="font-size: 10px;">Gatsby</a> <a href="/channels/1644859/tags/golang/" style="font-size: 10px;">GoLang</a> <a href="/channels/1644859/tags/google/" style="font-size: 10px;">Google</a> <a href="/channels/1644859/tags/hexo/" style="font-size: 10px;">Hexo</a> <a href="/channels/1644859/tags/highjacking/" style="font-size: 10px;">Highjacking</a> <a href="/channels/1644859/tags/hugo/" style="font-size: 10px;">Hugo</a> <a href="/channels/1644859/tags/interviewquestion/" style="font-size: 11.43px;">InterViewQuestion</a> <a href="/channels/1644859/tags/jamstack/" style="font-size: 10px;">JAMstack</a> <a href="/channels/1644859/tags/json/" style="font-size: 10px;">JSON</a> <a href="/channels/1644859/tags/java/" style="font-size: 12.86px;">Java</a> <a href="/channels/1644859/tags/javascript/" style="font-size: 20px;">JavaScript</a> <a href="/channels/1644859/tags/jekyll/" style="font-size: 10px;">Jekyll</a> <a href="/channels/1644859/tags/jest/" style="font-size: 10px;">Jest</a> <a href="/channels/1644859/tags/jobinterview/" style="font-size: 11.43px;">JobInterview</a> <a href="/channels/1644859/tags/kakao/" style="font-size: 10px;">Kakao</a> <a href="/channels/1644859/tags/lambda/" style="font-size: 11.43px;">Lambda</a> <a href="/channels/1644859/tags/legacycode/" style="font-size: 10px;">LegacyCode</a> <a href="/channels/1644859/tags/loadbalancing/" style="font-size: 10px;">LoadBalancing</a> <a href="/channels/1644859/tags/localstorage/" style="font-size: 10px;">LocalStorage</a> <a href="/channels/1644859/tags/microservice/" style="font-size: 12.86px;">Microservice</a> <a href="/channels/1644859/tags/mobileapp/" style="font-size: 12.86px;">MobileApp</a> <a href="/channels/1644859/tags/nw-js/" style="font-size: 10px;">NW.js</a> <a href="/channels/1644859/tags/nativescript/" style="font-size: 10px;">NativeScript</a> <a href="/channels/1644859/tags/naver/" style="font-size: 11.43px;">Naver</a> <a href="/channels/1644859/tags/network/" style="font-size: 10px;">Network</a> <a href="/channels/1644859/tags/next-js/" style="font-size: 10px;">Next.js</a> <a href="/channels/1644859/tags/node-js/" style="font-size: 15.71px;">Node.js</a> <a href="/channels/1644859/tags/nuxt-js/" style="font-size: 10px;">Nuxt.js</a> <a href="/channels/1644859/tags/php/" style="font-size: 10px;">PHP</a> <a href="/channels/1644859/tags/pwa/" style="font-size: 10px;">PWA</a> <a href="/channels/1644859/tags/parcel/" style="font-size: 10px;">Parcel</a> <a href="/channels/1644859/tags/performance/" style="font-size: 12.86px;">Performance</a> <a href="/channels/1644859/tags/polymer/" style="font-size: 10px;">Polymer</a> <a href="/channels/1644859/tags/programming/" style="font-size: 15.71px;">Programming</a> <a href="/channels/1644859/tags/python/" style="font-size: 11.43px;">Python</a> <a href="/channels/1644859/tags/react/" style="font-size: 17.14px;">React</a> <a href="/channels/1644859/tags/reactjs/" style="font-size: 10px;">ReactJS</a> <a href="/channels/1644859/tags/reactnative/" style="font-size: 10px;">ReactNative</a> <a href="/channels/1644859/tags/reactivity/" style="font-size: 10px;">Reactivity</a> <a href="/channels/1644859/tags/router/" style="font-size: 10px;">Router</a> <a href="/channels/1644859/tags/ruby/" style="font-size: 10px;">Ruby</a> <a href="/channels/1644859/tags/ssg/" style="font-size: 10px;">SSG</a> <a href="/channels/1644859/tags/security/" style="font-size: 11.43px;">Security</a> <a href="/channels/1644859/tags/serverless/" style="font-size: 11.43px;">Serverless</a> <a href="/channels/1644859/tags/sharding/" style="font-size: 10px;">Sharding</a> <a href="/channels/1644859/tags/systemjs/" style="font-size: 10px;">SystemJS</a> <a href="/channels/1644859/tags/tutorial/" style="font-size: 11.43px;">Tutorial</a> <a href="/channels/1644859/tags/typescript/" style="font-size: 15.71px;">TypeScript</a> <a href="/channels/1644859/tags/uidesign/" style="font-size: 10px;">UIDesign</a> <a href="/channels/1644859/tags/uuid/" style="font-size: 10px;">UUID</a> <a href="/channels/1644859/tags/uxdesign/" style="font-size: 12.86px;">UXDesign</a> <a href="/channels/1644859/tags/vue-js/" style="font-size: 18.57px;">Vue.js</a> <a href="/channels/1644859/tags/webcomponents/" style="font-size: 10px;">WebComponents</a> <a href="/channels/1644859/tags/webvr/" style="font-size: 10px;">WebVR</a> <a href="/channels/1644859/tags/webxr/" style="font-size: 10px;">WebXR</a> <a href="/channels/1644859/tags/webpack/" style="font-size: 10px;">Webpack</a> <a href="/channels/1644859/tags/yarn/" style="font-size: 10px;">Yarn</a> <a href="/channels/1644859/tags/awesome/" style="font-size: 10px;">awesome</a> <a href="/channels/1644859/tags/devblog/" style="font-size: 11.43px;">devblog</a> <a href="/channels/1644859/tags/jquery/" style="font-size: 11.43px;">jQuery</a> <a href="/channels/1644859/tags/jspm/" style="font-size: 10px;">jspm</a> <a href="/channels/1644859/tags/modules/" style="font-size: 11.43px;">modules</a> <a href="/channels/1644859/tags/npm/" style="font-size: 10px;">npm</a> <a href="/channels/1644859/tags/pnpm/" style="font-size: 10px;">pnpm</a> <a href="/channels/1644859/tags/static-site-generator/" style="font-size: 10px;">static-site-generator</a> <a href="/channels/1644859/tags/webpack/" style="font-size: 11.43px;">webpack</a> <a href="/channels/1644859/tags/분산처리/" style="font-size: 10px;">분산처리</a> <a href="/channels/1644859/tags/성능모니트링/" style="font-size: 10px;">성능모니트링</a>
         </div>
     </div>
 
