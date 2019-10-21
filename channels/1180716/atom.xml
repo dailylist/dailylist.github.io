@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo-LearningRoadMap</title>
+  
+  
+  <link href="/channels/1180716/atom.xml" rel="self"/>
+  
+  <link href="https://dailylist.github.io/channels/1180716/"/>
+  <updated>2019-09-06T07:15:24.060Z</updated>
+  <id>https://dailylist.github.io/channels/1180716/</id>
+  
+  <author>
+    <name>Daily List</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Deploying your Angular app to GitHub Pages using Travis-CI</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2019090502/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2019090502/</id>
+    <published>2019-09-05T01:33:00.000Z</published>
+    <updated>2019-09-06T07:15:24.060Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://medium.com/angularmedellin/deploying-your-angular-app-to-github-pages-using-travis-ci-baca2e1c30e7" class="link-preview" target="_blank" rel="noopener" title="Deploying your Angular app to GitHub Pages using Travis-CI"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Ffocal%2F800%2F421%2F55%2F33%2F1*spkpCQWQSyqmf1Qcn8Gyzg.jpeg&w=600" class="preview-image" title="Deploying your Angular app to GitHub Pages using Travis-CI"></div><div class="descriptions"><div class="og-title"><h2 title="Deploying your Angular app to GitHub Pages using Travis-CI">Deploying your Angular app to GitHub Pages using Travis-CI</h2></div><div class="og-description"><p title="Automation makes our lives easier and keep us out of common problems.">Automation makes our lives easier and keep us out of common problems.</p></div><div class="og-sitename"><p title="medium.com">medium.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://medium.com/angularmedellin/deploying-your-angular-app-to-github-pages-using-trav
+      
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://dailylist.github.io/channels/1180716/tags/github/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="CI" scheme="https://dailylist.github.io/channels/1180716/tags/ci/"/>
+    
+      <category term="deploy" scheme="https://dailylist.github.io/channels/1180716/tags/deploy/"/>
+    
+      <category term="SSG" scheme="https://dailylist.github.io/channels/1180716/tags/ssg/"/>
+    
+      <category term="DevOps" scheme="https://dailylist.github.io/channels/1180716/tags/devops/"/>
+    
+      <category term="Travis-CI" scheme="https://dailylist.github.io/channels/1180716/tags/travis-ci/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Two ways to deploy a public GitHub Pages site from a private Hugo repository</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2019090501/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2019090501/</id>
+    <published>2019-09-05T01:05:00.000Z</published>
+    <updated>2019-09-06T15:53:55.049Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://victoria.dev/verbose/two-ways-to-deploy-a-public-github-pages-site-from-a-private-hugo-repository/" class="link-preview" target="_blank" rel="noopener" title="Two ways to deploy a public GitHub Pages site from a private Hugo repository - Victoria Drake - victoria.dev"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fvictoria.dev%2Fverbose%2Ftwo-ways-to-deploy-a-public-github-pages-site-from-a-private-hugo-repository%2Fcover.jpg&w=600" class="preview-image" title="Two ways to deploy a public GitHub Pages site from a private Hugo repository - Victoria Drake - victoria.dev"></div><div class="descriptions"><div class="og-title"><h2 title="Two ways to deploy a public GitHub Pages site from a private Hugo repository - Victoria Drake - victoria.dev">Two ways to deploy a public GitHub Pages site from a private Hugo repository - Victoria Drake - victoria.dev</h2></div><div class="og-description"><p title="Keep your drafts out of the public eye by making use of continuous deployment tools to publish your public GitHub Pages site - from a separate private repository.">Keep your drafts out of the public eye by making use of continuous deployment tools to publish your public GitHub Pages site - from a separa…</p></div><div class="og-sitename"><p title="victoria.dev">victoria.dev</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://victoria.dev/verbose/two-ways-to-deploy-a-public-github-pages-site-from-a-privat
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="github" scheme="https://dailylist.github.io/channels/1180716/tags/github/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="hugo" scheme="https://dailylist.github.io/channels/1180716/tags/hugo/"/>
+    
+      <category term="CI" scheme="https://dailylist.github.io/channels/1180716/tags/ci/"/>
+    
+      <category term="deploy" scheme="https://dailylist.github.io/channels/1180716/tags/deploy/"/>
+    
+      <category term="SSG" scheme="https://dailylist.github.io/channels/1180716/tags/ssg/"/>
+    
+      <category term="DevOps" scheme="https://dailylist.github.io/channels/1180716/tags/devops/"/>
+    
+      <category term="Travis-CI" scheme="https://dailylist.github.io/channels/1180716/tags/travis-ci/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Deploy to Firebase Hosting from GitHub</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2019090401/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2019090401/</id>
+    <published>2019-09-04T01:05:00.000Z</published>
+    <updated>2019-09-06T07:16:33.060Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://medium.com/@cpavnn/deploy-to-firebase-hosting-from-github-3772fed05e72" class="link-preview" target="_blank" rel="noopener" title="Deploy to Firebase Hosting from GitHub"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1027%2F1*eHAgAN1tHcxtuYY81xA9rw.png&w=600" class="preview-image" title="Deploy to Firebase Hosting from GitHub"></div><div class="descriptions"><div class="og-title"><h2 title="Deploy to Firebase Hosting from GitHub">Deploy to Firebase Hosting from GitHub</h2></div><div class="og-description"><p title="Follow the steps to deploy to Firebase hosting from GitHub via Travis CI">Follow the steps to deploy to Firebase hosting from GitHub via Travis CI</p></div><div class="og-sitename"><p title="medium.com">medium.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://medium.com/@cpavnn/deploy-to-firebase-hosting-from-github-3772fed05e72&quot; class=&quot;l
+      
+    
+    </summary>
+    
+    
+      <category term="github" scheme="https://dailylist.github.io/channels/1180716/tags/github/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="firebase" scheme="https://dailylist.github.io/channels/1180716/tags/firebase/"/>
+    
+      <category term="hosting" scheme="https://dailylist.github.io/channels/1180716/tags/hosting/"/>
+    
+      <category term="CI" scheme="https://dailylist.github.io/channels/1180716/tags/ci/"/>
+    
+      <category term="deploy" scheme="https://dailylist.github.io/channels/1180716/tags/deploy/"/>
+    
+      <category term="SSG" scheme="https://dailylist.github.io/channels/1180716/tags/ssg/"/>
+    
+      <category term="DevOps" scheme="https://dailylist.github.io/channels/1180716/tags/devops/"/>
+    
+      <category term="Travis-CI" scheme="https://dailylist.github.io/channels/1180716/tags/travis-ci/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to publish packages to npm (the way the industry does things)</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2019082602/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2019082602/</id>
+    <published>2019-08-26T03:05:00.000Z</published>
+    <updated>2019-09-05T10:05:34.052Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://zellwk.com/blog/publish-to-npm/" class="link-preview" target="_blank" rel="noopener" title="How to publish packages to npm (the way the industry does things) | Zell Liew"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fzellwk.com%2Fimages%2F2019%2Fpublish-to-npm%2Fnpm-login.png&w=600" class="preview-image" title="How to publish packages to npm (the way the industry does things) | Zell Liew"></div><div class="descriptions"><div class="og-title"><h2 title="How to publish packages to npm (the way the industry does things) | Zell Liew">How to publish packages to npm (the way the industry does things) | Zell Liew</h2></div><div class="og-description"><p title="  It&#39;s not simple to publish and update packages to npm according to industry standards. We&#39;ll go through the steps involved and what you have to watch out for">  It&#39;s not simple to publish and update packages to npm according to industry standards. We&#39;ll go through the steps involved and what you h…</p></div><div class="og-sitename"><p title="zellwk.com">zellwk.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://zellwk.com/blog/publish-to-npm/&quot; class=&quot;link-preview&quot; target=&quot;_blank&quot; rel=&quot;noope
+      
+    
+    </summary>
+    
+    
+      <category term="Node.js" scheme="https://dailylist.github.io/channels/1180716/tags/node-js/"/>
+    
+      <category term="npm" scheme="https://dailylist.github.io/channels/1180716/tags/npm/"/>
+    
+      <category term="publish" scheme="https://dailylist.github.io/channels/1180716/tags/publish/"/>
+    
+      <category term="packages" scheme="https://dailylist.github.io/channels/1180716/tags/packages/"/>
+    
+      <category term="registry" scheme="https://dailylist.github.io/channels/1180716/tags/registry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Contributing packages to the registry</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2019082601/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2019082601/</id>
+    <published>2019-08-26T02:03:00.000Z</published>
+    <updated>2019-09-05T10:05:25.051Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://docs.npmjs.com/packages-and-modules/contributing-packages-to-the-registry" class="link-preview" target="_blank" rel="noopener" title="                          Contributing packages to the registry |                 npm Documentation  "><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="                          Contributing packages to the registry |                 npm Documentation  ">                          Contributing packages to the registry |                 npm Documentation  </h2></div><div class="og-sitename"><p title="docs.npmjs.com">docs.npmjs.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://docs.npmjs.com/packages-and-modules/contributing-packages-to-the-registry&quot; class
+      
+    
+    </summary>
+    
+    
+      <category term="Node.js" scheme="https://dailylist.github.io/channels/1180716/tags/node-js/"/>
+    
+      <category term="npm" scheme="https://dailylist.github.io/channels/1180716/tags/npm/"/>
+    
+      <category term="publish" scheme="https://dailylist.github.io/channels/1180716/tags/publish/"/>
+    
+      <category term="packages" scheme="https://dailylist.github.io/channels/1180716/tags/packages/"/>
+    
+      <category term="registry" scheme="https://dailylist.github.io/channels/1180716/tags/registry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[theme] hexo-theme-icarus</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018081601/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018081601/</id>
+    <published>2018-08-16T03:56:36.000Z</published>
+    <updated>2019-08-29T09:33:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><code>Icarus</code> theme is very beautiful.</p><p>hexo-theme-icarus<br>The blog theme you may fall in love with, coming to Hexo.</p><div class="link-preview_container cqUyOs"><a href="https://github.com/ppoffice/hexo-theme-icarus" class="link-preview" target="_blank" rel="noopener" title="ppoffice/hexo-theme-icarus"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F8849362%3Fs%3D400%26v%3D4&w=600" class="preview-image" title="ppoffice/hexo-theme-icarus"></div><div class="descriptions"><div class="og-title"><h2 title="ppoffice/hexo-theme-icarus">ppoffice/hexo-theme-icarus</h2></div><div class="og-description"><p title="A simple, delicate, and modern theme for the static site generator Hexo. - ppoffice/hexo-theme-icarus">A simple, delicate, and modern theme for the static site generator Hexo. - ppoffice/hexo-theme-icarus</p></div><div class="og-sitename"><p title="github.com">github.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;code&gt;Icarus&lt;/code&gt; theme is very beautiful.&lt;/p&gt;
+&lt;p&gt;hexo-theme-icarus&lt;br&gt;The blog theme you may fall in love with, coming to Hexo.&lt;/p&gt;
+&lt;d
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="theme" scheme="https://dailylist.github.io/channels/1180716/tags/theme/"/>
+    
+      <category term="Icarus" scheme="https://dailylist.github.io/channels/1180716/tags/icarus/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>7 Reasons NOT to Use a Static Site Generator</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018080102/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018080102/</id>
+    <published>2018-08-01T05:42:12.000Z</published>
+    <updated>2019-08-29T06:43:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Is a Static Site Right For You?<br>You can get good advices in this article.</p><p>A few years later, I think that some of the reasons mentioned in this article will not be a matter any more.</p><p>7 Reasons NOT to Use a Static Site Generator</p><div class="link-preview_container cqUyOs"><a href="https://www.sitepoint.com/7-reasons-not-use-static-site-generator/" class="link-preview" target="_blank" rel="noopener" title="7 Reasons NOT to Use a Static Site Generator — SitePoint"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fwww.sitepoint.com%2Fwp-content%2Fthemes%2Fsitepoint%2Fassets%2Fimages%2Ficon.web.png&w=600" class="preview-image" title="7 Reasons NOT to Use a Static Site Generator — SitePoint"></div><div class="descriptions"><div class="og-title"><h2 title="7 Reasons NOT to Use a Static Site Generator — SitePoint">7 Reasons NOT to Use a Static Site Generator — SitePoint</h2></div><div class="og-description"><p title="A static site can have benefits, but don&#39;t presume they apply to every project! Craig discusses issues arising from use of a generator.">A static site can have benefits, but don&#39;t presume they apply to every project! Craig discusses issues arising from use of a generator.</p></div><div class="og-sitename"><p title="sitepoint.com">sitepoint.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Is a Static Site Right For You?&lt;br&gt;You can get good advices in this article.&lt;/p&gt;
+&lt;p&gt;A few years later, I think that some of the reasons m
+      
+    
+    </summary>
+    
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="CMS" scheme="https://dailylist.github.io/channels/1180716/tags/cms/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Why Static Site Generators (4)</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018080101/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018080101/</id>
+    <published>2018-08-01T05:21:31.000Z</published>
+    <updated>2019-08-29T06:43:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Why use a static site generator?</p><ul><li>Less Complexity</li><li>Speed</li><li>Security</li><li>Version Control</li><li>Scalability and High Server Throughput</li></ul><p>That means we can <strong>SAVE THE ENERGY OF THE WORLD.</strong></p><p>Why use a static site generator?</p><div class="link-preview_container cqUyOs"><a href="https://learn.cloudcannon.com/jekyll/why-use-a-static-site-generator/" class="link-preview" target="_blank" rel="noopener" title="Why use a static site generator?"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fd1qmdf3vop2l07.cloudfront.net%2Fquiet-lily.cloudvent.net%2Fcompressed%2F_min_%2Fac88548cb0c955ba3f21d06b34647a83.png&w=600" class="preview-image" title="Why use a static site generator?"></div><div class="descriptions"><div class="og-title"><h2 title="Why use a static site generator?">Why use a static site generator?</h2></div><div class="og-description"><p title="Introduction to the world of static site generators">Introduction to the world of static site generators</p></div><div class="og-sitename"><p title="learn.cloudcannon.com">learn.cloudcannon.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Why use a static site generator?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Less Complexity&lt;/li&gt;
+&lt;li&gt;Speed&lt;/li&gt;
+&lt;li&gt;Security&lt;/li&gt;
+&lt;li&gt;Version Control&lt;/li&gt;
+&lt;li&gt;Scalabil
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="hugo" scheme="https://dailylist.github.io/channels/1180716/tags/hugo/"/>
+    
+      <category term="jekyll" scheme="https://dailylist.github.io/channels/1180716/tags/jekyll/"/>
+    
+      <category term="CMS" scheme="https://dailylist.github.io/channels/1180716/tags/cms/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Why Static Site Generators (3)</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018073004/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018073004/</id>
+    <published>2018-07-30T04:36:38.000Z</published>
+    <updated>2019-08-29T06:43:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Back in the day, web pages were static sites, with only HTML, CSS and JavaScript. There was no server code or database.</p><p>Modern sites generated by <code>Static Site Generators</code> consists only of HTML, CSS and JavaScript too.<br>There are no specific requirements for the type of the machine that will host the page, no back-end language restriction and no need for a database. As static files served to the browser, there are no actual vulnerabilities.</p><p>The best static website generators, and when you should choose them over a CMS</p><div class="link-preview_container cqUyOs"><a href="https://medium.freecodecamp.org/static-sites-are-back-24d01a01f11a" class="link-preview" target="_blank" rel="noopener" title="The best static website generators, and when you should choose them over a CMS"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fcdn-media-1.freecodecamp.org%2Fimages%2F1*xbivs4c7SBkMAHnNFIUHuA.png&w=600" class="preview-image" title="The best static website generators, and when you should choose them over a CMS"></div><div class="descriptions"><div class="og-title"><h2 title="The best static website generators, and when you should choose them over a CMS">The best static website generators, and when you should choose them over a CMS</h2></div><div class="og-description"><p title="by Stefanos VardalosThe best static website generators, and when you should choose them over a CMSBack in the day, web pages were static sites, with only HTML and CSS (and latersome JavaScript). Try to remember what that actually means.There was no server code or database. Your browser downloaded and displayed anHTML file hosted somewhere. Development was done directly in the text files, orthrough programs like Dreamweaver.Web development finally gained pace and, up to now, it hasn’t s">by Stefanos VardalosThe best static website generators, and when you should choose them over a CMSBack in the day, web pages were static …</p></div><div class="og-sitename"><p title="medium.freecodecamp.org">medium.freecodecamp.org</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Back in the day, web pages were static sites, with only HTML, CSS and JavaScript. There was no server code or database.&lt;/p&gt;
+&lt;p&gt;Modern sit
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="hugo" scheme="https://dailylist.github.io/channels/1180716/tags/hugo/"/>
+    
+      <category term="jekyll" scheme="https://dailylist.github.io/channels/1180716/tags/jekyll/"/>
+    
+      <category term="CMS" scheme="https://dailylist.github.io/channels/1180716/tags/cms/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Why Static Site Generators (2)</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018073003/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018073003/</id>
+    <published>2018-07-30T04:36:34.000Z</published>
+    <updated>2019-08-29T06:43:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Why go static?<br>Amongst many reasons, speed and security rise above all others.</p><p>Top Ten Static Site Generators of 2017</p><div class="link-preview_container cqUyOs"><a href="https://www.netlify.com/blog/2017/05/25/top-ten-static-site-generators-of-2017/#why-go-static" class="link-preview" target="_blank" rel="noopener" title="      Top Ten Static Site Generators of 2017 | Netlify  "><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fwww.netlify.com%2Fimg%2Fglobal%2Fmeta-image.jpg&w=600" class="preview-image" title="      Top Ten Static Site Generators of 2017 | Netlify  "></div><div class="descriptions"><div class="og-title"><h2 title="      Top Ten Static Site Generators of 2017 | Netlify  ">      Top Ten Static Site Generators of 2017 | Netlify  </h2></div><div class="og-description"><p title="      In this countdown, we will review the top ten static website generators of 2017 so far.  ">      In this countdown, we will review the top ten static website generators of 2017 so far.  </p></div><div class="og-sitename"><p title="netlify.com">netlify.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Why go static?&lt;br&gt;Amongst many reasons, speed and security rise above all others.&lt;/p&gt;
+&lt;p&gt;Top Ten Static Site Generators of 2017&lt;/p&gt;
+&lt;div 
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="hugo" scheme="https://dailylist.github.io/channels/1180716/tags/hugo/"/>
+    
+      <category term="jekyll" scheme="https://dailylist.github.io/channels/1180716/tags/jekyll/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Why Static Site Generators (1)</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018073002/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018073002/</id>
+    <published>2018-07-30T04:36:30.000Z</published>
+    <updated>2019-08-29T06:43:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Why Static Site?</p><ul><li>Speed</li><li>Security</li></ul><p>Why Now?</p><ul><li>the Browser Is Growing Up</li><li>Performance Is a Must</li><li>the CDN Is Going Mainstream</li><li>Build Tools Are Everywhere</li></ul><p>Why Static Site Generators Are The Next Big Thing</p><div class="link-preview_container cqUyOs"><a href="https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/" class="link-preview" target="_blank" rel="noopener" title="Why Static Site Generators Are The Next Big Thing — Smashing Magazine"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fcloud.netlifyusercontent.com%2Fassets%2F344dbf88-fdf9-42bb-adb4-46f01eedd629%2F15bb5653-5a31-4ac0-85fc-c946795f10bd%2Fjekyll-opt.png&w=600" class="preview-image" title="Why Static Site Generators Are The Next Big Thing — Smashing Magazine"></div><div class="descriptions"><div class="og-title"><h2 title="Why Static Site Generators Are The Next Big Thing — Smashing Magazine">Why Static Site Generators Are The Next Big Thing — Smashing Magazine</h2></div><div class="og-description"><p title="At StaticGen, our open-source directory of **static website generators**, we’ve kept track of more than a hundred generators for more than a year now, and we’ve seen both the volume and popularity of these projects take off incredibly on GitHub during that time, going from just 50 to more than 100 generators and a total of more than 100,000 stars for static website generator repositories.Influential design-focused companies such as Nest and MailChimp now use static website generators for their primary websites. Vox Media has built a whole publishing system around Middleman. Carrot, a large New York agency and part of the Vice empire, builds websites for some of the world’s largest brands with its own open-source generator, Roots. And several of Google’s properties, such as “A Year In Search” and Web Fundamentals, are static.">At StaticGen, our open-source directory of **static website generators**, we’ve kept track of more than a hundred generators for more than a…</p></div><div class="og-sitename"><p title="smashingmagazine.com">smashingmagazine.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Why Static Site?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Speed&lt;/li&gt;
+&lt;li&gt;Security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Why Now?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the Browser Is Growing Up&lt;/li&gt;
+&lt;li&gt;Performance 
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="hugo" scheme="https://dailylist.github.io/channels/1180716/tags/hugo/"/>
+    
+      <category term="jekyll" scheme="https://dailylist.github.io/channels/1180716/tags/jekyll/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo vs. Hugo vs. Jekyll</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018073001/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018073001/</id>
+    <published>2018-07-30T03:28:23.000Z</published>
+    <updated>2019-08-29T09:33:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Comparison of Hexo, Hugo and Jeklyll on stackshare.io</p><div class="link-preview_container cqUyOs"><a href="https://stackshare.io/stackups/hexo-vs-hugo-vs-jekyll" class="link-preview" target="_blank" rel="noopener" title="Hexo vs Hugo vs Jekyll | What are the differences?"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fimg.stackshare.io%2Fservice%2F1154%2FmQZOTo9f.png&w=600" class="preview-image" title="Hexo vs Hugo vs Jekyll | What are the differences?"></div><div class="descriptions"><div class="og-title"><h2 title="Hexo vs Hugo vs Jekyll | What are the differences?">Hexo vs Hugo vs Jekyll | What are the differences?</h2></div><div class="og-description"><p title="Check out some reviews and learn why developers prefer Hexo vs Hugo vs Jekyll. Explore 4 alternatives to Hexo and Hugo.">Check out some reviews and learn why developers prefer Hexo vs Hugo vs Jekyll. Explore 4 alternatives to Hexo and Hugo.</p></div><div class="og-sitename"><p title="stackshare.io">stackshare.io</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Comparison of Hexo, Hugo and Jeklyll on stackshare.io&lt;/p&gt;
+&lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://stackshare.io/stack
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="hugo" scheme="https://dailylist.github.io/channels/1180716/tags/hugo/"/>
+    
+      <category term="jekyll" scheme="https://dailylist.github.io/channels/1180716/tags/jekyll/"/>
+    
+      <category term="stackshareio" scheme="https://dailylist.github.io/channels/1180716/tags/stackshareio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JAMstack | https://jamstack.org/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072702/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072702/</id>
+    <published>2018-07-27T06:29:24.000Z</published>
+    <updated>2019-08-29T06:42:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>If you prefer static sites, you need to know about JAMstack.<br>Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.</p><p>What is the JAMstack?</p><ul><li>JavaScript</li><li>APIs</li><li>Markup</li></ul><p>Why the JAMstack?</p><ul><li>Better Performance</li><li>Cheaper, Easier Scaling</li></ul><div class="link-preview_container cqUyOs"><a href="https://jamstack.org/" class="link-preview" target="_blank" rel="noopener" title="JAMstack | JavaScript, APIs, and Markup"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="JAMstack | JavaScript, APIs, and Markup">JAMstack | JavaScript, APIs, and Markup</h2></div><div class="og-sitename"><p title="jamstack.org">jamstack.org</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;If you prefer static sites, you need to know about JAMstack.&lt;br&gt;Modern web development architecture based on client-side JavaScript, reus
+      
+    
+    </summary>
+    
+    
+      <category term="markdown" scheme="https://dailylist.github.io/channels/1180716/tags/markdown/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="JAMstack" scheme="https://dailylist.github.io/channels/1180716/tags/jamstack/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>StaticGen | https://www.staticgen.com/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072701/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072701/</id>
+    <published>2018-07-27T02:58:17.000Z</published>
+    <updated>2019-08-30T16:24:57.263Z</updated>
+    
+    <content type="html"><![CDATA[<p>A site that compares static site generators.<br>Jekyll, Hugo, Hexo, Next, Nuxt, etc.<br>Top 3 by Github stars: Jekyll, Next, Hugo.<br>Top 3 by Twitter followers: Nuxt, Gatsby, Jekyll.</p><p>StaticGen | A List of Static Site Generators for JAMstack Sites.</p><div class="link-preview_container cqUyOs"><a href="https://www.staticgen.com/" class="link-preview" target="_blank" rel="noopener" title="StaticGen"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fwww.staticgen.com%2Fimages%2Fundefined&w=600" class="preview-image" title="StaticGen"></div><div class="descriptions"><div class="og-title"><h2 title="StaticGen">StaticGen</h2></div><div class="og-description"><p title="StaticGen is a leaderboard of the top open source static site generators. Promoting a static approach to building websites.">StaticGen is a leaderboard of the top open source static site generators. Promoting a static approach to building websites.</p></div><div class="og-sitename"><p title="staticgen.com">staticgen.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;A site that compares static site generators.&lt;br&gt;Jekyll, Hugo, Hexo, Next, Nuxt, etc.&lt;br&gt;Top 3 by Github stars: Jekyll, Next, Hugo.&lt;br&gt;Top
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+      <category term="hugo" scheme="https://dailylist.github.io/channels/1180716/tags/hugo/"/>
+    
+      <category term="jekyll" scheme="https://dailylist.github.io/channels/1180716/tags/jekyll/"/>
+    
+      <category term="next" scheme="https://dailylist.github.io/channels/1180716/tags/next/"/>
+    
+      <category term="nuxt" scheme="https://dailylist.github.io/channels/1180716/tags/nuxt/"/>
+    
+      <category term="gatsby" scheme="https://dailylist.github.io/channels/1180716/tags/gatsby/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[theme] hexo-theme-minos</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072301/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072301/</id>
+    <published>2018-07-23T12:56:36.000Z</published>
+    <updated>2019-08-30T16:22:11.261Z</updated>
+    
+    <content type="html"><![CDATA[<p>The first theme of my choice is <code>Minos</code>.<br>It’s simple and beautiful.</p><p>hexo-theme-minos</p><div class="link-preview_container cqUyOs"><a href="https://blog.zhangruipeng.me/hexo-theme-minos/categories/Documentation/" class="link-preview" target="_blank" rel="noopener" title="Minos"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fblog.zhangruipeng.me%2Fhexo-theme-minos%2Fimages%2Flogo.png&w=600" class="preview-image" title="Minos"></div><div class="descriptions"><div class="og-title"><h2 title="Minos">Minos</h2></div><div class="og-description"><p title="Hexo theme - Minos">Hexo theme - Minos</p></div><div class="og-sitename"><p title="blog.zhangruipeng.me">blog.zhangruipeng.me</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;The first theme of my choice is &lt;code&gt;Minos&lt;/code&gt;.&lt;br&gt;It’s simple and beautiful.&lt;/p&gt;
+&lt;p&gt;hexo-theme-minos&lt;/p&gt;
+&lt;div class=&quot;link-preview_co
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="theme" scheme="https://dailylist.github.io/channels/1180716/tags/theme/"/>
+    
+      <category term="Minos" scheme="https://dailylist.github.io/channels/1180716/tags/minos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-LearningRoadMap | https://hexo-learningroadmap.firebaseapp.com/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072103/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072103/</id>
+    <published>2018-07-21T09:26:27.000Z</published>
+    <updated>2019-08-29T06:39:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>My demo blog url on Firebase is<br>  <a href="https://hexo-learningroadmap.firebaseapp.com/" target="_blank" rel="noopener">https://hexo-learningroadmap.firebaseapp.com/</a></p><div class="link-preview_container cqUyOs"><a href="https://hexo-learningroadmap.firebaseapp.com/" class="link-preview" target="_blank" rel="noopener" title="Hexo-LearningRoadMap"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="Hexo-LearningRoadMap">Hexo-LearningRoadMap</h2></div><div class="og-sitename"><p title="learningroadmap.firebaseapp.com">learningroadmap.firebaseapp.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;My demo blog url on Firebase is&lt;br&gt;  &lt;a href=&quot;https://hexo-learningroadmap.firebaseapp.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hexo-
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="LearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/learningroadmap/"/>
+    
+      <category term="HexoLearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/hexolearningroadmap/"/>
+    
+      <category term="firebase" scheme="https://dailylist.github.io/channels/1180716/tags/firebase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-LearningRoadMap | https://hexo-learningroadmap.netlify.com/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072102/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072102/</id>
+    <published>2018-07-21T09:24:27.000Z</published>
+    <updated>2019-08-29T06:39:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>My demo blog url on Netlify is<br>  <a href="https://hexo-learningroadmap.netlify.com/" target="_blank" rel="noopener">https://hexo-learningroadmap.netlify.com/</a></p><div class="link-preview_container cqUyOs"><a href="https://hexo-learningroadmap.netlify.com/" class="link-preview" target="_blank" rel="noopener" title="Hexo-LearningRoadMap"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="Hexo-LearningRoadMap">Hexo-LearningRoadMap</h2></div><div class="og-sitename"><p title="learningroadmap.netlify.com">learningroadmap.netlify.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;My demo blog url on Netlify is&lt;br&gt;  &lt;a href=&quot;https://hexo-learningroadmap.netlify.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hexo-learn
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="LearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/learningroadmap/"/>
+    
+      <category term="HexoLearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/hexolearningroadmap/"/>
+    
+      <category term="netlify" scheme="https://dailylist.github.io/channels/1180716/tags/netlify/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-LearningRoadMap | https://hexo-learningroadmap.github.io/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072101/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072101/</id>
+    <published>2018-07-21T09:23:27.000Z</published>
+    <updated>2019-08-29T06:38:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>My demo blog url on Github Pages is<br>  <a href="https://hexo-learningroadmap.github.io/" target="_blank" rel="noopener">https://hexo-learningroadmap.github.io/</a></p><div class="link-preview_container cqUyOs"><a href="https://hexo-learningroadmap.github.io/" class="link-preview" target="_blank" rel="noopener" title="Hexo-LearningRoadMap"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="Hexo-LearningRoadMap">Hexo-LearningRoadMap</h2></div><div class="og-sitename"><p title="learningroadmap.github.io">learningroadmap.github.io</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;My demo blog url on Github Pages is&lt;br&gt;  &lt;a href=&quot;https://hexo-learningroadmap.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://hexo-le
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="LearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/learningroadmap/"/>
+    
+      <category term="HexoLearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/hexolearningroadmap/"/>
+    
+      <category term="github-pages" scheme="https://dailylist.github.io/channels/1180716/tags/github-pages/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Getting Started with the Hexo</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072005/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072005/</id>
+    <published>2018-07-20T09:10:12.000Z</published>
+    <updated>2019-08-29T06:57:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>It’s a very kind and detailed tutorial.</p><p>Getting Started with the Hexo Blogging Framework</p><div class="link-preview_container cqUyOs"><a href="https://www.cgmartin.com/2016/01/03/getting-started-with-hexo-blog/" class="link-preview" target="_blank" rel="noopener" title="Getting Started with the Hexo Blogging Framework"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fwww.cgmartin.com%2Fimages%2Fgetting-started-with-hexo-blog%2Ffirst-post-orig.png&w=600" class="preview-image" title="Getting Started with the Hexo Blogging Framework"></div><div class="descriptions"><div class="og-title"><h2 title="Getting Started with the Hexo Blogging Framework">Getting Started with the Hexo Blogging Framework</h2></div><div class="og-description"><p title="Quickstart tutorial for installing, running, and authoring with Hexo blogging platform">Quickstart tutorial for installing, running, and authoring with Hexo blogging platform</p></div><div class="og-sitename"><p title="cgmartin.com">cgmartin.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;It’s a very kind and detailed tutorial.&lt;/p&gt;
+&lt;p&gt;Getting Started with the Hexo Blogging Framework&lt;/p&gt;
+&lt;div class=&quot;link-preview_container cq
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="tutorial" scheme="https://dailylist.github.io/channels/1180716/tags/tutorial/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo theme ranking on Github Search</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072004/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072004/</id>
+    <published>2018-07-20T05:10:00.000Z</published>
+    <updated>2019-08-29T06:37:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo theme ranking on <code>Github Search</code></p><div class="link-preview_container cqUyOs"><a href="https://github.com/search?o=desc&q=hexo-theme&s=stars&type=Repositories&utf8=%E2%9C%93" class="link-preview" target="_blank" rel="noopener" title="Build software better, together"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fmodules%2Fopen_graph%2Fgithub-logo.png&w=600" class="preview-image" title="Build software better, together"></div><div class="descriptions"><div class="og-title"><h2 title="Build software better, together">Build software better, together</h2></div><div class="og-description"><p title="GitHub is where people build software. More than 40 million people use GitHub to discover, fork, and contribute to over 100 million projects.">GitHub is where people build software. More than 40 million people use GitHub to discover, fork, and contribute to over 100 million projects…</p></div><div class="og-sitename"><p title="github.com">github.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hexo theme ranking on &lt;code&gt;Github Search&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://github.com/search?o=desc
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="theme" scheme="https://dailylist.github.io/channels/1180716/tags/theme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Top 10 Popular Themes | https://en.abnerchou.me/Blog/5c00ca67/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072003/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072003/</id>
+    <published>2018-07-20T04:27:23.000Z</published>
+    <updated>2019-08-30T16:24:33.261Z</updated>
+    
+    <content type="html"><![CDATA[<p>Top 10 themes based on github stars by @NoahDragon</p><div class="link-preview_container cqUyOs"><a href="https://en.abnerchou.me/Blog/5c00ca67/" class="link-preview" target="_blank" rel="noopener" title="Hexo Top 10 Popular Themes | Hard Code"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fen.abnerchou.me%2Favatar.jpeg&w=600" class="preview-image" title="Hexo Top 10 Popular Themes | Hard Code"></div><div class="descriptions"><div class="og-title"><h2 title="Hexo Top 10 Popular Themes | Hard Code">Hexo Top 10 Popular Themes | Hard Code</h2></div><div class="og-description"><p title="A Developer in Limbo">A Developer in Limbo</p></div><div class="og-sitename"><p title="en.abnerchou.me">en.abnerchou.me</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Top 10 themes based on github stars by @NoahDragon&lt;/p&gt;
+&lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://en.abnerchou.me/Blog/5
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="theme" scheme="https://dailylist.github.io/channels/1180716/tags/theme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Themes List | https://hexo.io/themes/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072002/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072002/</id>
+    <published>2018-07-20T04:16:08.000Z</published>
+    <updated>2019-08-29T06:36:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>You can find all themes here.</p><div class="link-preview_container cqUyOs"><a href="https://hexo.io/themes/" class="link-preview" target="_blank" rel="noopener" title="Themes"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="Themes">Themes</h2></div><div class="og-description"><p title="Hexo is a fast, simple &amp; powerful blog framework powered by Node.js.">Hexo is a fast, simple &amp; powerful blog framework powered by Node.js.</p></div><div class="og-sitename"><p title="hexo.io">hexo.io</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;You can find all themes here.&lt;/p&gt;
+&lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://hexo.io/themes/&quot; class=&quot;link-preview&quot; targe
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="theme" scheme="https://dailylist.github.io/channels/1180716/tags/theme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A curated list of awesome things related to Hexo | https://github.com/hexojs/awesome-hexo</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018072001/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018072001/</id>
+    <published>2018-07-20T04:08:32.000Z</published>
+    <updated>2019-08-29T06:35:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>A curated list of awesome things related to Hexo.<br>Tutorials, Themes, Showcases.</p><p>awesome-hexo</p><div class="link-preview_container cqUyOs"><a href="https://github.com/hexojs/awesome-hexo" class="link-preview" target="_blank" rel="noopener" title="hexojs/awesome-hexo"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F6375567%3Fs%3D400%26v%3D4&w=600" class="preview-image" title="hexojs/awesome-hexo"></div><div class="descriptions"><div class="og-title"><h2 title="hexojs/awesome-hexo">hexojs/awesome-hexo</h2></div><div class="og-description"><p title="A curated list of awesome things related to Hexo. Contribute to hexojs/awesome-hexo development by creating an account on GitHub.">A curated list of awesome things related to Hexo. Contribute to hexojs/awesome-hexo development by creating an account on GitHub.</p></div><div class="og-sitename"><p title="github.com">github.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;A curated list of awesome things related to Hexo.&lt;br&gt;Tutorials, Themes, Showcases.&lt;/p&gt;
+&lt;p&gt;awesome-hexo&lt;/p&gt;
+&lt;div class=&quot;link-preview_conta
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="tutorial" scheme="https://dailylist.github.io/channels/1180716/tags/tutorial/"/>
+    
+      <category term="showcase" scheme="https://dailylist.github.io/channels/1180716/tags/showcase/"/>
+    
+      <category term="theme" scheme="https://dailylist.github.io/channels/1180716/tags/theme/"/>
+    
+      <category term="awesome" scheme="https://dailylist.github.io/channels/1180716/tags/awesome/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-LearningRoadMap | https://hexo-learningroadmap.now.sh/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018071902/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018071902/</id>
+    <published>2018-07-19T08:52:26.000Z</published>
+    <updated>2019-08-29T06:30:38.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>My demo blog url on <a href="https://zeit.co/now" target="_blank" rel="noopener"><code>now</code></a> is<br>  <a href="https://hexo-learningroadmap.now.sh/" target="_blank" rel="noopener">https://hexo-learningroadmap.now.sh/</a></p><div class="link-preview_container cqUyOs"><a href="https://hexo-learningroadmap.now.sh/" class="link-preview" target="_blank" rel="noopener" title="Hexo-LearningRoadMap"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="Hexo-LearningRoadMap">Hexo-LearningRoadMap</h2></div><div class="og-description"><p title="Hexo LearningRoadMap, learn hexo related something.">Hexo LearningRoadMap, learn hexo related something.</p></div><div class="og-sitename"><p title="learningroadmap.now.sh">learningroadmap.now.sh</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;My demo blog url on &lt;a href=&quot;https://zeit.co/now&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;code&gt;now&lt;/code&gt;&lt;/a&gt; is&lt;br&gt;  &lt;a href=&quot;https://hexo-learn
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="LearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/learningroadmap/"/>
+    
+      <category term="now" scheme="https://dailylist.github.io/channels/1180716/tags/now/"/>
+    
+      <category term="now_sh" scheme="https://dailylist.github.io/channels/1180716/tags/now-sh/"/>
+    
+      <category term="HexoLearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/hexolearningroadmap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>https://now.sh</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018071901/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018071901/</id>
+    <published>2018-07-19T08:39:26.000Z</published>
+    <updated>2019-08-29T06:34:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>According to policy about robots.txt of surge.sh, we can not use a robots.txt. <a href="https://medium.com/@l.mugnaini/spa-and-seo-is-googlebot-able-to-render-a-single-page-application-1f74e706ab11" target="_blank" rel="noopener">link</a></p><p>So I changed deployment tool to <a href="https://now.sh" target="_blank" rel="noopener">https://now.sh</a> .<br><code>now</code> is very simple also, and it supports Docker, Node.js applications.</p><div class="link-preview_container cqUyOs"><a href="https://now.sh" class="link-preview" target="_blank" rel="noopener" title="ZEIT"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Fq_auto%2Ffront%2Fzeit%2Fcardv2.png&w=600" class="preview-image" title="ZEIT"></div><div class="descriptions"><div class="og-title"><h2 title="ZEIT">ZEIT</h2></div><div class="og-description"><p title="Our mission is to make cloud computing as easy and accessible as mobile computing.">Our mission is to make cloud computing as easy and accessible as mobile computing.</p></div><div class="og-sitename"><p title="now.sh">now.sh</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;According to policy about robots.txt of surge.sh, we can not use a robots.txt. &lt;a href=&quot;https://medium.com/@l.mugnaini/spa-and-seo-is-goo
+      
+    
+    </summary>
+    
+    
+      <category term="static-site-publishing" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-publishing/"/>
+    
+      <category term="now" scheme="https://dailylist.github.io/channels/1180716/tags/now/"/>
+    
+      <category term="now_sh" scheme="https://dailylist.github.io/channels/1180716/tags/now-sh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-LearningRoadMap | https://hexo-learningroadmap.surge.sh/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018071702/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018071702/</id>
+    <published>2018-07-17T15:54:25.000Z</published>
+    <updated>2019-08-29T06:31:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>My demo blog url on <a href="https://twitter.com/surge_sh" target="_blank" rel="noopener">surge_sh</a> is<br>  <a href="https://hexo-learningroadmap.surge.sh/" target="_blank" rel="noopener">https://hexo-learningroadmap.surge.sh/</a></p><div class="link-preview_container cqUyOs"><a href="https://hexo-learningroadmap.surge.sh/" class="link-preview" target="_blank" rel="noopener" title="Hexo-LearningRoadMap"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="Hexo-LearningRoadMap">Hexo-LearningRoadMap</h2></div><div class="og-description"><p title="Hexo LearningRoadMap, learn hexo related something.">Hexo LearningRoadMap, learn hexo related something.</p></div><div class="og-sitename"><p title="learningroadmap.surge.sh">learningroadmap.surge.sh</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;My demo blog url on &lt;a href=&quot;https://twitter.com/surge_sh&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;surge_sh&lt;/a&gt; is&lt;br&gt;  &lt;a href=&quot;https://hexo-lear
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="LearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/learningroadmap/"/>
+    
+      <category term="surge" scheme="https://dailylist.github.io/channels/1180716/tags/surge/"/>
+    
+      <category term="surge_sh" scheme="https://dailylist.github.io/channels/1180716/tags/surge-sh/"/>
+    
+      <category term="HexoLearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/hexolearningroadmap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>https://surge.sh/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018071701/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018071701/</id>
+    <published>2018-07-17T15:39:28.000Z</published>
+    <updated>2019-08-30T16:27:49.260Z</updated>
+    
+    <content type="html"><![CDATA[<p>To deploy my hexo demo blog, I will use <a href="https://surge.sh/" target="_blank" rel="noopener">https://surge.sh/</a> .<br>Use <a href="https://twitter.com/surge_sh" target="_blank" rel="noopener">@surge_sh</a> deploy a static web site is very simple.</p><div class="link-preview_container cqUyOs"><a href="https://surge.sh/" class="link-preview" target="_blank" rel="noopener" title="Surge"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fsurge.sh%2Fimages%2Ftour%2Ftour-landing-example.png&w=600" class="preview-image" title="Surge"></div><div class="descriptions"><div class="og-title"><h2 title="Surge">Surge</h2></div><div class="og-description"><p title="Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.">Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, right from the CLI.</p></div><div class="og-sitename"><p title="surge.sh">surge.sh</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;To deploy my hexo demo blog, I will use &lt;a href=&quot;https://surge.sh/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://surge.sh/&lt;/a&gt; .&lt;br&gt;Use &lt;a href
+      
+    
+    </summary>
+    
+    
+      <category term="static-site-publishing" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-publishing/"/>
+    
+      <category term="surge" scheme="https://dailylist.github.io/channels/1180716/tags/surge/"/>
+    
+      <category term="surge_sh" scheme="https://dailylist.github.io/channels/1180716/tags/surge-sh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>https://github.com/hexojs/hexo</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018071602/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018071602/</id>
+    <published>2018-07-16T15:32:48.000Z</published>
+    <updated>2019-08-29T06:28:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo project on github is <a href="https://github.com/hexojs/hexo" target="_blank" rel="noopener">https://github.com/hexojs/hexo</a></p><div class="link-preview_container cqUyOs"><a href="https://github.com/hexojs/hexo" class="link-preview" target="_blank" rel="noopener" title="hexojs/hexo"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F6375567%3Fs%3D400%26v%3D4&w=600" class="preview-image" title="hexojs/hexo"></div><div class="descriptions"><div class="og-title"><h2 title="hexojs/hexo">hexojs/hexo</h2></div><div class="og-description"><p title="A fast, simple &amp; powerful blog framework, powered by Node.js. - hexojs/hexo">A fast, simple &amp; powerful blog framework, powered by Node.js. - hexojs/hexo</p></div><div class="og-sitename"><p title="github.com">github.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hexo project on github is &lt;a href=&quot;https://github.com/hexojs/hexo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/hexojs/hexo&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="hexojs" scheme="https://dailylist.github.io/channels/1180716/tags/hexojs/"/>
+    
+      <category term="github" scheme="https://dailylist.github.io/channels/1180716/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>https://hexo.io/</title>
+    <link href="https://dailylist.github.io/channels/1180716/posts/2018071601/"/>
+    <id>https://dailylist.github.io/channels/1180716/posts/2018071601/</id>
+    <published>2018-07-16T15:16:52.000Z</published>
+    <updated>2019-08-29T06:27:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo is a fast, simple &amp; powerful blog framework, powered by <a href="http://nodejs.org/" target="_blank" rel="noopener">Node.js</a>.<br>It supports gitHub flavored markdown.</p><p>My plan is to build this demo blog and learn about hexo, and record related resources.</p><div class="link-preview_container cqUyOs"><a href="https://hexo.io/" class="link-preview" target="_blank" rel="noopener" title="Hexo"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="Hexo">Hexo</h2></div><div class="og-description"><p title="Hexo is a fast, simple &amp; powerful blog framework powered by Node.js.">Hexo is a fast, simple &amp; powerful blog framework powered by Node.js.</p></div><div class="og-sitename"><p title="hexo.io">hexo.io</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hexo is a fast, simple &amp;amp; powerful blog framework, powered by &lt;a href=&quot;http://nodejs.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Node.js&lt;/a&gt;.
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://dailylist.github.io/channels/1180716/tags/hexo/"/>
+    
+      <category term="LearningRoadMap" scheme="https://dailylist.github.io/channels/1180716/tags/learningroadmap/"/>
+    
+      <category term="markdown" scheme="https://dailylist.github.io/channels/1180716/tags/markdown/"/>
+    
+      <category term="blog" scheme="https://dailylist.github.io/channels/1180716/tags/blog/"/>
+    
+      <category term="static-site-generator" scheme="https://dailylist.github.io/channels/1180716/tags/static-site-generator/"/>
+    
+  </entry>
+  
+</feed>

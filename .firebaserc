@@ -1,0 +1,37 @@
+{
+  "projects": {
+    "default": "dailymarklist",
+    "dailywebtoon": "dailywebtoon"
+  },
+  "targets": {
+    "dailymarklist": {
+      "hosting": {
+        "dailymarklist": [
+          "dailymarklist"
+        ],
+        "dailymark": [
+          "dailymark"
+        ],
+        "dailymarks": [
+          "dailymarks"
+        ]
+      }
+    },
+    "dailywebtoon": {
+      "hosting": {
+        "dailywebtoon": [
+          "dailywebtoon"
+        ],
+        "dailywebtoons": [
+          "dailywebtoons"
+        ],
+        "webtoons": [
+          "webtoons"
+        ],
+        "webtoon": [
+          "webtoon"
+        ]
+      }
+    }
+  }
+}

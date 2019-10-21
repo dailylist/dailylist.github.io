@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://dailylist.github.io/channels/1644859/sitemap.xml
+Sitemap: https://dailylist.github.io/channels/1729317/sitemap.xml
+Sitemap: https://dailylist.github.io/channels/2085301/sitemap.xml

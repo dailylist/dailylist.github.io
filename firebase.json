@@ -1,0 +1,70 @@
+{
+  "hosting": [{
+      "target": "dailymarklist",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    },
+    {
+      "target": "dailymark",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    },
+    {
+      "target": "dailymarks",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    },
+    {
+      "target": "dailywebtoon",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    }, {
+      "target": "dailywebtoons",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    }, {
+      "target": "webtoons",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    }, {
+      "target": "webtoon",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**",
+        "**/.git/**"
+      ]
+    }
+  ]
+}

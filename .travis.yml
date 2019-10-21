@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "8"
+script:
+ - echo "Deploy!!"
+install:
+  - npm install -g firebase-tools
+after_success:
+  - firebase deploy --project dailymarklist --only hosting:dailymarklist --token $FIREBASE_TOKEN
+  - firebase deploy --project dailymarklist --only hosting:dailymark --token $FIREBASE_TOKEN
+  - firebase deploy --project dailymarklist --only hosting:dailymarks --token $FIREBASE_TOKEN
+  - firebase deploy --project dailywebtoon --only hosting:dailywebtoon --token $FIREBASE_TOKEN
+  - firebase deploy --project dailywebtoon --only hosting:webtoon --token $FIREBASE_TOKEN
+  - firebase deploy --project dailywebtoon --only hosting:dailywebtoons --token $FIREBASE_TOKEN
+  - firebase deploy --project dailywebtoon --only hosting:webtoons --token $FIREBASE_TOKEN

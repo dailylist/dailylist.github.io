@@ -1,0 +1,7 @@
+{
+  "alias": ["dailylist.now.sh", "mark.now.sh", "index.now.sh"],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/.*", "status": 404, "dest": "/404.html" }
+  ]
+}
