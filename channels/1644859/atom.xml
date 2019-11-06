@@ -6,7 +6,7 @@
   <link href="/channels/1644859/atom.xml" rel="self"/>
   
   <link href="https://dailylist.github.io/channels/1644859/"/>
-  <updated>2019-09-07T16:27:11.353Z</updated>
+  <updated>2019-12-14T15:33:56.000Z</updated>
   <id>https://dailylist.github.io/channels/1644859/</id>
   
   <author>
@@ -15,6 +15,235 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>We have a problem with promises</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019121401/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019121401/</id>
+    <published>2019-12-14T15:29:58.000Z</published>
+    <updated>2019-12-14T15:33:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html" class="link-preview" target="_blank" rel="noopener" title="We have a problem with promises"><div class="link-area"><div class="descriptions"><div class="og-title"><h2 title="We have a problem with promises">We have a problem with promises</h2></div><div class="og-sitename"><p title="pouchdb.com">pouchdb.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html&quot; class=&quot;link-preview
+      
+    
+    </summary>
+    
+    
+      <category term="JavaScript" scheme="https://dailylist.github.io/channels/1644859/tags/javascript/"/>
+    
+      <category term="Asynchronous" scheme="https://dailylist.github.io/channels/1644859/tags/asynchronous/"/>
+    
+      <category term="Promise" scheme="https://dailylist.github.io/channels/1644859/tags/promise/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Making instagram.com faster: Code size and execution optimizations (Part 4)</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019111604/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019111604/</id>
+    <published>2019-11-16T03:33:07.000Z</published>
+    <updated>2019-11-16T03:36:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8" class="link-preview" target="_blank" rel="noopener" title="Making instagram.com faster: Code size and execution optimizations (Part 4)"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F627%2F1*HDLCFPZCIfOpVWMSYz4HOg.png&w=600" class="preview-image" title="Making instagram.com faster: Code size and execution optimizations (Part 4)"></div><div class="descriptions"><div class="og-title"><h2 title="Making instagram.com faster: Code size and execution optimizations (Part 4)">Making instagram.com faster: Code size and execution optimizations (Part 4)</h2></div><div class="og-description"><p title="Covers approaches to how we improved performance by reducing JavaScript size &amp; making that Javascript execute more efficiently.">Covers approaches to how we improved performance by reducing JavaScript size &amp; making that Javascript execute more efficiently.</p></div><div class="og-sitename"><p title="engineering.com">engineering.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-op
+      
+    
+    </summary>
+    
+    
+      <category term="Performance" scheme="https://dailylist.github.io/channels/1644859/tags/performance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Making Instagram.com faster: Part 3 — cache first</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019111603/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019111603/</id>
+    <published>2019-11-16T03:33:01.000Z</published>
+    <updated>2019-11-16T03:36:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669" class="link-preview" target="_blank" rel="noopener" title="Making instagram.com faster: Part 3 — cache first"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1200%2F1*NGABlwJjUR2g0T23xTvWoQ.png&w=600" class="preview-image" title="Making instagram.com faster: Part 3 — cache first"></div><div class="descriptions"><div class="og-title"><h2 title="Making instagram.com faster: Part 3 — cache first">Making instagram.com faster: Part 3 — cache first</h2></div><div class="og-description"><p title="In recent years instagram.com has seen a lot of changes — we’ve launched stories, filters, creation tools, notifications, and direct…">In recent years instagram.com has seen a lot of changes — we’ve launched stories, filters, creation tools, notifications, and direct…</p></div><div class="og-sitename"><p title="engineering.com">engineering.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130
+      
+    
+    </summary>
+    
+    
+      <category term="Performance" scheme="https://dailylist.github.io/channels/1644859/tags/performance/"/>
+    
+      <category term="cache" scheme="https://dailylist.github.io/channels/1644859/tags/cache/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Making Instagram.com faster: Part 2</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019111602/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019111602/</id>
+    <published>2019-11-16T03:32:54.000Z</published>
+    <updated>2019-11-16T03:35:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4" class="link-preview" target="_blank" rel="noopener" title="Making Instagram.com faster: Part 2"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F852%2F1*SMeBpIo_8ylAiMDixmr5HA.png&w=600" class="preview-image" title="Making Instagram.com faster: Part 2"></div><div class="descriptions"><div class="og-title"><h2 title="Making Instagram.com faster: Part 2">Making Instagram.com faster: Part 2</h2></div><div class="og-description"><p title="A series outlining how we improved the page load times of instagram.com by 50%. This entry covers early flushing HTML and pushing data.">A series outlining how we improved the page load times of instagram.com by 50%. This entry covers early flushing HTML and pushing data.</p></div><div class="og-sitename"><p title="engineering.com">engineering.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4&quot; class
+      
+    
+    </summary>
+    
+    
+      <category term="Performance" scheme="https://dailylist.github.io/channels/1644859/tags/performance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Making Instagram.com faster: Part 1</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019111601/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019111601/</id>
+    <published>2019-11-16T03:27:17.000Z</published>
+    <updated>2019-11-16T03:32:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538" class="link-preview" target="_blank" rel="noopener" title="Making Instagram.com faster: Part 1"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1200%2F1*madjA8Cbk-QVS--NyR5Q3g.png&w=600" class="preview-image" title="Making Instagram.com faster: Part 1"></div><div class="descriptions"><div class="og-title"><h2 title="Making Instagram.com faster: Part 1">Making Instagram.com faster: Part 1</h2></div><div class="og-description"><p title="In recent years instagram.com has seen a lot of changes — we’ve launched stories, filters, creation tools, notifications, and direct…">In recent years instagram.com has seen a lot of changes — we’ve launched stories, filters, creation tools, notifications, and direct…</p></div><div class="og-sitename"><p title="engineering.com">engineering.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538&quot; class
+      
+    
+    </summary>
+    
+    
+      <category term="Performance" scheme="https://dailylist.github.io/channels/1644859/tags/performance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Top 10 GitHub best practices for developers</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019110102/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019110102/</id>
+    <published>2019-11-01T11:25:24.000Z</published>
+    <updated>2019-11-01T11:28:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://www.datree.io/resources/github-best-practices" class="link-preview" target="_blank" rel="noopener" title="undefined"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fassets.website-files.com%2F5d514fd9493b0575f03520bd%2F5d664911071de81410eeb6b4_github-best-practices-1-1200x600.jpg&w=600" class="preview-image" title="undefined"></div><div class="descriptions"><div class="og-title"><h2 title="undefined">undefined</h2></div><div class="og-sitename"><p title="datree.io">datree.io</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://www.datree.io/resources/github-best-practices&quot; class=&quot;link-preview&quot; target=&quot;_bla
+      
+    
+    </summary>
+    
+    
+      <category term="GitHub" scheme="https://dailylist.github.io/channels/1644859/tags/github/"/>
+    
+      <category term="best-practices" scheme="https://dailylist.github.io/channels/1644859/tags/best-practices/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>What is ZSH, and Why Should You Use It Instead of Bash?</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019110101/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019110101/</id>
+    <published>2019-11-01T01:07:58.000Z</published>
+    <updated>2019-11-01T01:11:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/" class="link-preview" target="_blank" rel="noopener" title="What is ZSH, and Why Should You Use It Instead of Bash?"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fwww.howtogeek.com%2Fthumbcache%2F2%2F200%2F0dbafebd1df88ec85ee585d67435c167%2Fwp-content%2Fuploads%2F2018%2F08%2Fzsh_lede.png&w=600" class="preview-image" title="What is ZSH, and Why Should You Use It Instead of Bash?"></div><div class="descriptions"><div class="og-title"><h2 title="What is ZSH, and Why Should You Use It Instead of Bash?">What is ZSH, and Why Should You Use It Instead of Bash?</h2></div><div class="og-description"><p title="ZSH, also called the Z shell, is an extended version of the Bourne Shell (sh), with plenty of new features, and support for plugins and themes. Since it’s based on the same shell as Bash, ZSH has many of the same features, and switching over is a breeze.">ZSH, also called the Z shell, is an extended version of the Bourne Shell (sh), with plenty of new features, and support for plugins and them…</p></div><div class="og-sitename"><p title="howtogeek.com">howtogeek.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="Terminal" scheme="https://dailylist.github.io/channels/1644859/tags/terminal/"/>
+    
+      <category term="Tools" scheme="https://dailylist.github.io/channels/1644859/tags/tools/"/>
+    
+      <category term="zsh" scheme="https://dailylist.github.io/channels/1644859/tags/zsh/"/>
+    
+      <category term="bash" scheme="https://dailylist.github.io/channels/1644859/tags/bash/"/>
+    
+      <category term="geek" scheme="https://dailylist.github.io/channels/1644859/tags/geek/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Helpers and tips for npm run scripts</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019103101/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019103101/</id>
+    <published>2019-10-31T06:17:42.000Z</published>
+    <updated>2019-10-31T06:26:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html" class="link-preview" target="_blank" rel="noopener" title="Helpers and tips for npm run scripts"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fmichael-kuehnel.de%2Ftooling%2F2018%2F03%2F22%2Fmichael-kuehnel.de&w=600" class="preview-image" title="Helpers and tips for npm run scripts"></div><div class="descriptions"><div class="og-title"><h2 title="Helpers and tips for npm run scripts">Helpers and tips for npm run scripts</h2></div><div class="og-description"><p title="The purpose of this blog post is not to introduce using npm as a build tool. There are lots of good articles about the »where« and »why«. I would like to present some hidden gems to potentially improve your setup instead.">The purpose of this blog post is not to introduce using npm as a build tool. There are lots of good articles about the »where« and »why«. I …</p></div><div class="og-sitename"><p title="kuehnel.de">kuehnel.de</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="npm" scheme="https://dailylist.github.io/channels/1644859/tags/npm/"/>
+    
+      <category term="test" scheme="https://dailylist.github.io/channels/1644859/tags/test/"/>
+    
+      <category term="cli" scheme="https://dailylist.github.io/channels/1644859/tags/cli/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Meta keywords Why we don&#39;t use them - and neither should you</title>
+    <link href="https://dailylist.github.io/channels/1644859/posts/2019102801/"/>
+    <id>https://dailylist.github.io/channels/1644859/posts/2019102801/</id>
+    <published>2019-10-28T01:21:35.000Z</published>
+    <updated>2019-10-28T01:24:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://yoast.com/meta-keywords/" class="link-preview" target="_blank" rel="noopener" title="Meta keywords: why we don&#39;t use them - and neither should you • Yoast"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fyoast.com%2Fapp%2Fuploads%2F2011%2F07%2Fmeta-keywords-FB.jpg&w=600" class="preview-image" title="Meta keywords: why we don&#39;t use them - and neither should you • Yoast"></div><div class="descriptions"><div class="og-title"><h2 title="Meta keywords: why we don&#39;t use them - and neither should you • Yoast">Meta keywords: why we don&#39;t use them - and neither should you • Yoast</h2></div><div class="og-description"><p title="Should you be using the meta keywords tag? It&#39;s no longer used by the search engines. Get the facts here and make your own decision!">Should you be using the meta keywords tag? It&#39;s no longer used by the search engines. Get the facts here and make your own decision!</p></div><div class="og-sitename"><p title="yoast.com">yoast.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://yoast.com/meta-keywords/&quot; class=&quot;link-preview&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; ti
+      
+    
+    </summary>
+    
+    
+      <category term="SEO" scheme="https://dailylist.github.io/channels/1644859/tags/seo/"/>
+    
+      <category term="meta-tag" scheme="https://dailylist.github.io/channels/1644859/tags/meta-tag/"/>
+    
+  </entry>
   
   <entry>
     <title>Debugging - Getting Started | Node.js</title>
@@ -641,280 +870,6 @@
       <category term="TypeScript" scheme="https://dailylist.github.io/channels/1644859/tags/typescript/"/>
     
       <category term="Google" scheme="https://dailylist.github.io/channels/1644859/tags/google/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The State of JavaScript 2018: Introduction</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018120501/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018120501/</id>
-    <published>2018-12-05T01:11:00.000Z</published>
-    <updated>2018-12-05T06:51:50.558Z</updated>
-    
-    <content type="html"><![CDATA[<p>JavaScript 개발자의 설문 조사를 통해서 생태계의 현황을 정리한 글입니다.</p><div class="link-preview_container cqUyOs"><a href="https://2018.stateofjs.com/introduction/" class="link-preview" target="_blank" rel="noopener" title="The State of JavaScript 2018: Introduction"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2F2018.stateofjs.com%2Fimages%2Fstateofjs2018-social.png&w=600" class="preview-image" title="The State of JavaScript 2018: Introduction"></div><div class="descriptions"><div class="og-title"><h2 title="The State of JavaScript 2018: Introduction">The State of JavaScript 2018: Introduction</h2></div><div class="og-description"><p title="Discover the most popular JavaScript technologies of the year.">Discover the most popular JavaScript technologies of the year.</p></div><div class="og-sitename"><p title="2018.stateofjs.com">2018.stateofjs.com</p></div></div></div></a></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;JavaScript 개발자의 설문 조사를 통해서 생태계의 현황을 정리한 글입니다.&lt;/p&gt;
-&lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://2018.stateofjs.com/introduc
-      
-    
-    </summary>
-    
-    
-      <category term="React" scheme="https://dailylist.github.io/channels/1644859/tags/react/"/>
-    
-      <category term="Angular" scheme="https://dailylist.github.io/channels/1644859/tags/angular/"/>
-    
-      <category term="Vue.js" scheme="https://dailylist.github.io/channels/1644859/tags/vue-js/"/>
-    
-      <category term="Node.js" scheme="https://dailylist.github.io/channels/1644859/tags/node-js/"/>
-    
-      <category term="JavaScript" scheme="https://dailylist.github.io/channels/1644859/tags/javascript/"/>
-    
-      <category term="TypeScript" scheme="https://dailylist.github.io/channels/1644859/tags/typescript/"/>
-    
-      <category term="For2018" scheme="https://dailylist.github.io/channels/1644859/tags/for2018/"/>
-    
-      <category term="Jest" scheme="https://dailylist.github.io/channels/1644859/tags/jest/"/>
-    
-      <category term="Express" scheme="https://dailylist.github.io/channels/1644859/tags/express/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>인스타그램,에어비앤비,트위터 앱이 비슷하게 생긴 이유</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018120402/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018120402/</id>
-    <published>2018-12-04T06:21:00.000Z</published>
-    <updated>2018-12-04T07:00:05.557Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5" target="_blank" rel="noopener">Ever wonder why the most popular apps are starting to look the same? It might be a good thing</a> 의 번역글.<br><div class="link-preview_container cqUyOs"><a href="https://brunch.co.kr/@thinkaboutlove/216" class="link-preview" target="_blank" rel="noopener" title="인스타그램,에어비앤비,트위터 앱이 비슷하게 생긴 이유"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Ft1.daumcdn.net%2Fthumb%2FR1280x0%2F%3Ffname%3Dhttp%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1SwI%2Fimage%2FW_OEAnOjGAEhcxqQpjeR1ZitXs0.jpg&w=600" class="preview-image" title="인스타그램,에어비앤비,트위터 앱이 비슷하게 생긴 이유"></div><div class="descriptions"><div class="og-title"><h2 title="인스타그램,에어비앤비,트위터 앱이 비슷하게 생긴 이유">인스타그램,에어비앤비,트위터 앱이 비슷하게 생긴 이유</h2></div><div class="og-description"><p title="보이는 것보다 콘텐츠에 집중한다. | 목차  0.인스타그램, 에어비앤비, 트위터 앱이 비슷하게 생긴 이유 1.콘텐츠와 결과에 더 집중한다. 2. 일관성이 높아지면 사용 편의성도 높아진다. 3. 브랜딩은 단순히 어떻게 보이는지가 아니라 어떻게 작동하는가이다. 4. 인터페이스 디자인이 유사하다고 창의성이 억압되는 것은 아니다.  0.인스타그램, 에어비앤비, 트위터 앱이 비슷하게 생긴 이유  인스타">보이는 것보다 콘텐츠에 집중한다. | 목차  0.인스타그램, 에어비앤비, 트위터 앱이 비슷하게 생긴 이유 1.콘텐츠와 결과에 더 집중한다. 2. 일관성이 높아지면 사용 편의성도 높아진다. 3. 브랜딩은 단순히 어떻게 보이는지가 아니라 어떻게 작동하는가…</p></div><div class="og-sitename"><p title="brunch.co.kr">brunch.co.kr</p></div></div></div></a></div></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5&quot; t
-      
-    
-    </summary>
-    
-    
-      <category term="MobileApp" scheme="https://dailylist.github.io/channels/1644859/tags/mobileapp/"/>
-    
-      <category term="UXDesign" scheme="https://dailylist.github.io/channels/1644859/tags/uxdesign/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>모바일 앱의 스플래시 화면(SPLASH SCREEN) 어떻게 활용하면 좋을까?</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018120401/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018120401/</id>
-    <published>2018-12-04T05:12:00.000Z</published>
-    <updated>2018-12-04T06:50:51.557Z</updated>
-    
-    <content type="html"><![CDATA[<p>여전히 유효한 스플래시 화면<br>이처럼 사용자들에게 우리 서비스에 대한 명확한 소개를 위해, 우리 앱의 느낌과 분위기를 있는 그대로 전하기 위해, 특정 행동을 유도하기 위해 등 스플래시 화면은 짧은 시간이지만 이처럼 다양한 역할을 하고 있습니다. 애플, 구글, 삼성 등 다양한 앱스토어를 통해 앱을 다운로드 받게 하는 것 자체가 점점 어려워지는 상황 속, 스플래시 화면은 여전히 긴가민가한 사용자들을 더 확 끌어당길 수 있는 역할을 충분히 해낼 수 있지 않을까 싶네요.</p><div class="link-preview_container cqUyOs"><a href="http://icunow.co.kr/splash-screen/" class="link-preview" target="_blank" rel="noopener" title="모바일 앱의 스플래시 화면(splash screen) 어떻게 활용하면 좋을까? | 지금 써보러 갑니다"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fs3-ap-northeast-2.amazonaws.com%2Ficunow.co.kr%2F2018%2F11%2F26221513%2Fsplash-screen_181126.png&w=600" class="preview-image" title="모바일 앱의 스플래시 화면(splash screen) 어떻게 활용하면 좋을까? | 지금 써보러 갑니다"></div><div class="descriptions"><div class="og-title"><h2 title="모바일 앱의 스플래시 화면(splash screen) 어떻게 활용하면 좋을까? | 지금 써보러 갑니다">모바일 앱의 스플래시 화면(splash screen) 어떻게 활용하면 좋을까? | 지금 써보러 갑니다</h2></div><div class="og-sitename"><p title="icunow.co.kr">icunow.co.kr</p></div></div></div></a></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;여전히 유효한 스플래시 화면&lt;br&gt;이처럼 사용자들에게 우리 서비스에 대한 명확한 소개를 위해, 우리 앱의 느낌과 분위기를 있는 그대로 전하기 위해, 특정 행동을 유도하기 위해 등 스플래시 화면은 짧은 시간이지만 이처럼 다양한 역할을 하고 있습니다
-      
-    
-    </summary>
-    
-    
-      <category term="MobileApp" scheme="https://dailylist.github.io/channels/1644859/tags/mobileapp/"/>
-    
-      <category term="UXDesign" scheme="https://dailylist.github.io/channels/1644859/tags/uxdesign/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Why Facebook&#39;s api starts with a for loop</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018120301/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018120301/</id>
-    <published>2018-12-03T02:05:00.000Z</published>
-    <updated>2018-12-03T06:52:04.557Z</updated>
-    
-    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob" class="link-preview" target="_blank" rel="noopener" title="Why Facebook&#39;s api starts with a for loop"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--kGZSNV5e--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fcl.ly%2F46f377a30a04%2FImage%2525202018-11-13%252520at%2525202.19.42%252520PM.png%253F238823823&w=600" class="preview-image" title="Why Facebook&#39;s api starts with a for loop"></div><div class="descriptions"><div class="og-title"><h2 title="Why Facebook&#39;s api starts with a for loop">Why Facebook&#39;s api starts with a for loop</h2></div><div class="og-description"><p title="The curious case of JSON hijacking">The curious case of JSON hijacking</p></div><div class="og-sitename"><p title="dev.to">dev.to</p></div></div></div></a></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob&quot; class=&quot;link-pre
-      
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://dailylist.github.io/channels/1644859/tags/javascript/"/>
-    
-      <category term="Security" scheme="https://dailylist.github.io/channels/1644859/tags/security/"/>
-    
-      <category term="JSON" scheme="https://dailylist.github.io/channels/1644859/tags/json/"/>
-    
-      <category term="Highjacking" scheme="https://dailylist.github.io/channels/1644859/tags/highjacking/"/>
-    
-      <category term="Ajax" scheme="https://dailylist.github.io/channels/1644859/tags/ajax/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>[면접팁] 좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018120201/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018120201/</id>
-    <published>2018-12-02T02:13:00.000Z</published>
-    <updated>2018-12-05T06:08:08.557Z</updated>
-    
-    <content type="html"><![CDATA[<p>면접관과 채용 담당자를 위한 비밀들</p><a href="https://repo.yona.io/doortts/blog/post/295" target="_blank" rel="noopener">https://repo.yona.io/doortts/blog/post/295</a>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;면접관과 채용 담당자를 위한 비밀들&lt;/p&gt;
-&lt;a href=&quot;https://repo.yona.io/doortts/blog/post/295&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://repo.yona.io/doortts/
-      
-    
-    </summary>
-    
-    
-      <category term="JobInterview" scheme="https://dailylist.github.io/channels/1644859/tags/jobinterview/"/>
-    
-      <category term="InterViewQuestion" scheme="https://dailylist.github.io/channels/1644859/tags/interviewquestion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>배달의민족 면접에서 듣게 되는 질문 65가지(2018년 ver.)</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018120101/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018120101/</id>
-    <published>2018-12-01T03:10:00.000Z</published>
-    <updated>2018-12-04T07:04:32.557Z</updated>
-    
-    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="http://www.bloter.net/archives/322886" class="link-preview" target="_blank" rel="noopener" title="배달의민족 면접에서 듣게 되는 질문 65가지(2018년 ver.)"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=www.bloter.net%2Fwp-content%2Fuploads%2F2018%2F10%2Fimg-people%402x.png&w=600" class="preview-image" title="배달의민족 면접에서 듣게 되는 질문 65가지(2018년 ver.)"></div><div class="descriptions"><div class="og-title"><h2 title="배달의민족 면접에서 듣게 되는 질문 65가지(2018년 ver.)">배달의민족 면접에서 듣게 되는 질문 65가지(2018년 ver.)</h2></div><div class="og-description"><p title="합격자들은 면접장 분위기로 면접 결과를 유추할 수 있었다고 한다.">합격자들은 면접장 분위기로 면접 결과를 유추할 수 있었다고 한다.</p></div><div class="og-sitename"><p title="bloter.net">bloter.net</p></div></div></div></a></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;http://www.bloter.net/archives/322886&quot; class=&quot;link-preview&quot; target=&quot;_blank&quot; rel=&quot;noopene
-      
-    
-    </summary>
-    
-    
-      <category term="JobInterview" scheme="https://dailylist.github.io/channels/1644859/tags/jobinterview/"/>
-    
-      <category term="InterViewQuestion" scheme="https://dailylist.github.io/channels/1644859/tags/interviewquestion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mobile App Design Trends Of 2019: Revamp Your App Identity</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018113003/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018113003/</id>
-    <published>2018-11-30T06:13:00.000Z</published>
-    <updated>2018-12-03T02:31:11.557Z</updated>
-    
-    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://www.excellentwebworld.com/mobile-app-design-trends/" class="link-preview" target="_blank" rel="noopener" title="Mobile App Design Trends Of 2019: Revamp Your App Identity"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fs3-ap-south-1.amazonaws.com%2Feww-wp%2Fwp-content%2Fuploads%2F2018%2F11%2F16095631%2Ftop-mobile-app-design-trends.jpg&w=600" class="preview-image" title="Mobile App Design Trends Of 2019: Revamp Your App Identity"></div><div class="descriptions"><div class="og-title"><h2 title="Mobile App Design Trends Of 2019: Revamp Your App Identity">Mobile App Design Trends Of 2019: Revamp Your App Identity</h2></div><div class="og-description"><p title="If you are thinking that you have recently updated your existing app and you don’t have to do it now then let me tell you one simple thing.">If you are thinking that you have recently updated your existing app and you don’t have to do it now then let me tell you one simple thing.</p></div><div class="og-sitename"><p title="excellentwebworld.com">excellentwebworld.com</p></div></div></div></a></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://www.excellentwebworld.com/mobile-app-design-trends/&quot; class=&quot;link-preview&quot; target
-      
-    
-    </summary>
-    
-    
-      <category term="MobileApp" scheme="https://dailylist.github.io/channels/1644859/tags/mobileapp/"/>
-    
-      <category term="UIDesign" scheme="https://dailylist.github.io/channels/1644859/tags/uidesign/"/>
-    
-      <category term="UXDesign" scheme="https://dailylist.github.io/channels/1644859/tags/uxdesign/"/>
-    
-      <category term="For2019" scheme="https://dailylist.github.io/channels/1644859/tags/for2019/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Most In-Demand Developer Skills For 2019: Upgrade Yourself</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018113002/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018113002/</id>
-    <published>2018-11-30T03:21:00.000Z</published>
-    <updated>2018-12-03T02:16:19.557Z</updated>
-    
-    <content type="html"><![CDATA[<p>A Look At The Top Developers Skills In Demand For 2019</p><ol><li>In-Demand Languages</li><li>Trending Frameworks</li><li>Technology Trends</li><li>Innovative Developer Tools<div class="link-preview_container cqUyOs"><a href="https://www.excellentwebworld.com/in-demand-developer-skills/" class="link-preview" target="_blank" rel="noopener" title="Most In-Demand Developer Skills For 2019: Upgrade Yourself"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fs3-ap-south-1.amazonaws.com%2Feww-wp%2Fwp-content%2Fuploads%2F2018%2F11%2F16103205%2Fbest-in-demand-developer-skills-1024x538.jpg&w=600" class="preview-image" title="Most In-Demand Developer Skills For 2019: Upgrade Yourself"></div><div class="descriptions"><div class="og-title"><h2 title="Most In-Demand Developer Skills For 2019: Upgrade Yourself">Most In-Demand Developer Skills For 2019: Upgrade Yourself</h2></div><div class="og-description"><p title="This blog is not just for the developers but also for the companies who wish to hire the best coders with top highly requested skills of the future.">This blog is not just for the developers but also for the companies who wish to hire the best coders with top highly requested skills of the…</p></div><div class="og-sitename"><p title="excellentwebworld.com">excellentwebworld.com</p></div></div></div></a></div></li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;A Look At The Top Developers Skills In Demand For 2019&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;In-Demand Languages&lt;/li&gt;
-&lt;li&gt;Trending Frameworks&lt;/li&gt;
-&lt;li&gt;Technology 
-      
-    
-    </summary>
-    
-    
-      <category term="React" scheme="https://dailylist.github.io/channels/1644859/tags/react/"/>
-    
-      <category term="Angular" scheme="https://dailylist.github.io/channels/1644859/tags/angular/"/>
-    
-      <category term="Vue.js" scheme="https://dailylist.github.io/channels/1644859/tags/vue-js/"/>
-    
-      <category term="Node.js" scheme="https://dailylist.github.io/channels/1644859/tags/node-js/"/>
-    
-      <category term="JavaScript" scheme="https://dailylist.github.io/channels/1644859/tags/javascript/"/>
-    
-      <category term="Programming" scheme="https://dailylist.github.io/channels/1644859/tags/programming/"/>
-    
-      <category term="For2019" scheme="https://dailylist.github.io/channels/1644859/tags/for2019/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Top 3 Programming Language To Watch Out in 2019</title>
-    <link href="https://dailylist.github.io/channels/1644859/posts/2018113001/"/>
-    <id>https://dailylist.github.io/channels/1644859/posts/2018113001/</id>
-    <published>2018-11-30T02:05:00.000Z</published>
-    <updated>2018-12-03T02:15:29.557Z</updated>
-    
-    <content type="html"><![CDATA[<p>No3 - Go lang,<br>No2 - JavaScript,<br>No1 - Python</p><div class="link-preview_container cqUyOs"><a href="https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b" class="link-preview" target="_blank" rel="noopener" title="Top 3 Programming Language To Watch Out in 2019"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fhackernoon.com%2Fhn-images%2F1*jd8ZKUWtY1AOMwz2CvZG8A.jpeg&w=600" class="preview-image" title="Top 3 Programming Language To Watch Out in 2019"></div><div class="descriptions"><div class="og-title"><h2 title="Top 3 Programming Language To Watch Out in 2019">Top 3 Programming Language To Watch Out in 2019</h2></div><div class="og-sitename"><p title="hackernoon.com">hackernoon.com</p></div></div></div></a></div>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;No3 - Go lang,&lt;br&gt;No2 - JavaScript,&lt;br&gt;No1 - Python&lt;/p&gt;
-&lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://hackernoon.com/top-3-
-      
-    
-    </summary>
-    
-    
-      <category term="Node.js" scheme="https://dailylist.github.io/channels/1644859/tags/node-js/"/>
-    
-      <category term="Python" scheme="https://dailylist.github.io/channels/1644859/tags/python/"/>
-    
-      <category term="JavaScript" scheme="https://dailylist.github.io/channels/1644859/tags/javascript/"/>
-    
-      <category term="Programming" scheme="https://dailylist.github.io/channels/1644859/tags/programming/"/>
-    
-      <category term="For2019" scheme="https://dailylist.github.io/channels/1644859/tags/for2019/"/>
-    
-      <category term="GoLang" scheme="https://dailylist.github.io/channels/1644859/tags/golang/"/>
     
   </entry>
   

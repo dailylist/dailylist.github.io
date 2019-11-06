@@ -9,6 +9,20 @@
 
     
     <url>
+        <loc>https://dailylist.github.io/channels/2085301/random/</loc>
+        <lastmod>2020-07-23T06:04:52.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://dailylist.github.io/channels/2085301/about/</loc>
+        <lastmod>2020-07-23T06:02:28.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://dailylist.github.io/channels/2085301/release-notes/</loc>
         <lastmod>2019-10-09T01:39:18.383Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,20 +39,6 @@
     <url>
         <loc>https://dailylist.github.io/channels/2085301/today/</loc>
         <lastmod>2019-10-03T16:26:48.133Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://dailylist.github.io/channels/2085301/random/</loc>
-        <lastmod>2019-10-03T16:26:44.002Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://dailylist.github.io/channels/2085301/about/</loc>
-        <lastmod>2019-08-28T17:44:26.736Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

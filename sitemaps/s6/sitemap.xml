@@ -4,63 +4,88 @@
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/2085301/post-sitemap.xml</loc>
-        <lastmod>2019-08-29T18:25:16.000Z</lastmod>
+        <lastmod>2019-10-24T18:25:16.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/2085301/page-sitemap.xml</loc>
-        <lastmod>2019-08-29T06:49:26.953Z</lastmod>
+        <lastmod>2019-10-24T06:49:26.953Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/2085301/tag-sitemap.xml</loc>
-        <lastmod>2019-08-29T18:25:16.000Z</lastmod>
+        <lastmod>2019-10-24T18:25:16.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://dailymarklist.web.app/sitemaps/s6/2085301/category-sitemap.xml</loc>
+        <lastmod>2019-10-24T18:25:16.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1644859/post-sitemap.xml</loc>
-        <lastmod>2019-08-29T10:44:37.529Z</lastmod>
+        <lastmod>2019-10-24T10:44:37.529Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1644859/page-sitemap.xml</loc>
-        <lastmod>2019-08-29T07:16:20.559Z</lastmod>
+        <lastmod>2019-10-24T07:16:20.559Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1644859/tag-sitemap.xml</loc>
-        <lastmod>2019-08-29T10:44:37.529Z</lastmod>
+        <lastmod>2019-10-24T10:44:37.529Z</lastmod>
     </sitemap>
 
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1729317/post-sitemap.xml</loc>
-        <lastmod>2019-08-29T09:34:19.364Z</lastmod>
+        <lastmod>2019-10-24T09:34:19.364Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1729317/page-sitemap.xml</loc>
-        <lastmod>2019-08-29T09:57:59.364Z</lastmod>
+        <lastmod>2019-10-24T09:57:59.364Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1729317/tag-sitemap.xml</loc>
-        <lastmod>2019-08-29T09:34:19.364Z</lastmod>
+        <lastmod>2019-10-24T09:34:19.364Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1180716/post-sitemap.xml</loc>
-        <lastmod>2019-08-29T09:33:50.000Z</lastmod>
+        <lastmod>2019-10-24T09:33:50.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1180716/page-sitemap.xml</loc>
-        <lastmod>2019-08-29T08:49:55.000Z</lastmod>
+        <lastmod>2019-10-24T08:49:55.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://dailymarklist.web.app/sitemaps/s6/1180716/tag-sitemap.xml</loc>
-        <lastmod>2019-08-29T09:33:50.000Z</lastmod>
+        <lastmod>2019-10-24T09:33:50.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://dailymarklist.web.app/sitemaps/s6/1024019/post-sitemap.xml</loc>
+        <lastmod>2019-10-24T09:33:50.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://dailymarklist.web.app/sitemaps/s6/1024019/page-sitemap.xml</loc>
+        <lastmod>2019-10-24T08:49:55.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://dailymarklist.web.app/sitemaps/s6/1024019/tag-sitemap.xml</loc>
+        <lastmod>2019-10-24T09:33:50.000Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://dailymarklist.web.app/sitemaps/s6/1024019/category-sitemap.xml</loc>
+        <lastmod>2019-10-24T09:33:50.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>

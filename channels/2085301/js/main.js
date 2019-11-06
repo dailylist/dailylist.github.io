@@ -82,7 +82,7 @@
       $($(".navbar-item")[4]).text("#" + d).attr("href", "/channels/2085301/tags/" + d + "/");
     }
     if ($(".navbar-item")[5]) {
-      var i = Math.floor(Math.random() * Math.floor(1187));
+      var i = Math.floor(Math.random() * Math.floor(1236));
       $($(".navbar-item")[5]).on("click", function(){
         this.href = "/channels/2085301/posts/webtoon-" + i + "/";
       });

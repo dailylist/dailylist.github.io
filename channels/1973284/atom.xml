@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>建站博客</title>
+  <icon>https://dailylist.github.io/channels/1973284/images/logo.jpg</icon>
+  
+  <link href="/channels/1973284/atom.xml" rel="self"/>
+  
+  <link href="https://dailylist.github.io/channels/1973284/"/>
+  <updated>2019-11-06T03:50:41.000Z</updated>
+  <id>https://dailylist.github.io/channels/1973284/</id>
+  
+  <author>
+    <name>Daily List</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何搭建一个自己的视频网站？</title>
+    <link href="https://dailylist.github.io/channels/1973284/posts/ck2mqujrp0000vwynfwyecqbr/"/>
+    <id>https://dailylist.github.io/channels/1973284/posts/ck2mqujrp0000vwynfwyecqbr/</id>
+    <published>2019-11-06T03:50:41.000Z</published>
+    <updated>2019-11-06T03:50:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://zhuanlan.zhihu.com/p/55420193" class="link-preview" target="_blank" rel="noopener" title="如何搭建一个自己的视频网站？对接公众号自动回复！"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Fpic2.zhimg.com%2Fv2-48f348ab775e4f99be8e465c636f68af_b.jpg&w=600" class="preview-image" title="如何搭建一个自己的视频网站？对接公众号自动回复！"></div><div class="descriptions"><div class="og-title"><h2 title="如何搭建一个自己的视频网站？对接公众号自动回复！">如何搭建一个自己的视频网站？对接公众号自动回复！</h2></div><div class="og-description"><p title="搭建网站说难也难，说简单也简单，只要动手就一定能成！本人也是编程小白一枚，自己慢慢摸索，一步一步终于有了属于自己的影视网站，可以自己免费看电影不说，还可以分享给朋友，甚至于做起自媒体，那都不是事！首…">搭建网站说难也难，说简单也简单，只要动手就一定能成！本人也是编程小白一枚，自己慢慢摸索，一步一步终于有了属于自己的影视网站，可以自己免费看电影不说，还可以分享给朋友，甚至于做起自媒体，那都不是事！首…</p></div><div class="og-sitename"><p title="zhuanlan.zhihu.com">zhuanlan.zhihu.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/55420193&quot; class=&quot;link-preview&quot; target=&quot;_blank&quot; rel=&quot;noopene
+      
+    
+    </summary>
+    
+    
+    
+      <category term="视频网站" scheme="https://dailylist.github.io/channels/1973284/tags/%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="视频采集" scheme="https://dailylist.github.io/channels/1973284/tags/%E8%A7%86%E9%A2%91%E9%87%87%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么是视频采集站，他们是怎样盈利的？</title>
+    <link href="https://dailylist.github.io/channels/1973284/posts/ck2mqo7jz0000v0yn0uek7jab/"/>
+    <id>https://dailylist.github.io/channels/1973284/posts/ck2mqo7jz0000v0yn0uek7jab/</id>
+    <published>2019-11-06T03:45:54.000Z</published>
+    <updated>2019-11-06T03:45:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="http://haiyanjianzhan.com/index.php/post/48.html" class="link-preview" target="_blank" rel="noopener" title="什么是视频采集站，他们是怎样盈利的？_全网影视_海燕影视建站博客"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=http%3A%2F%2Fhaiyanjianzhan.com%2Findex.php%2Fpost%2Fhaiyanjianzhan.com%2Fzb_users%2Fupload%2F2019%2F06%2F201906131560432039216238.png&w=600" class="preview-image" title="什么是视频采集站，他们是怎样盈利的？_全网影视_海燕影视建站博客"></div><div class="descriptions"><div class="og-title"><h2 title="什么是视频采集站，他们是怎样盈利的？_全网影视_海燕影视建站博客">什么是视频采集站，他们是怎样盈利的？_全网影视_海燕影视建站博客</h2></div><div class="og-description"><p title="除了爱奇艺、优酷、腾讯这些平台，相信各位还去过其它网站看过电影一类，先不说版权的问题，今天来讲解这些小网站的电影哪来的。首先可以说明，这些小网站是没有足够的能力去保存这么多视频的，可以计算下随便个网站视频库都是最少好几万部，需要十几T硬盘没问题。就算能解决硬盘大小问题，...">除了爱奇艺、优酷、腾讯这些平台，相信各位还去过其它网站看过电影一类，先不说版权的问题，今天来讲解这些小网站的电影哪来的。首先可以说明，这些小网站是没有足够的能力去保存这么多视频的，可以计算下随便个网站视频库都是最少好几万部，需要十几T硬盘没问题。就算能解决硬盘大小问题，...</p></div><div class="og-sitename"><p title="haiyanjianzhan.com">haiyanjianzhan.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;http://haiyanjianzhan.com/index.php/post/48.html&quot; class=&quot;link-preview&quot; target=&quot;_blank&quot; r
+      
+    
+    </summary>
+    
+    
+    
+      <category term="视频网站" scheme="https://dailylist.github.io/channels/1973284/tags/%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="视频采集" scheme="https://dailylist.github.io/channels/1973284/tags/%E8%A7%86%E9%A2%91%E9%87%87%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>资深站长干货：小说网站从建立到盈利全解析</title>
+    <link href="https://dailylist.github.io/channels/1973284/posts/ck2mq4n6j0000rcyn9r9a4ob9/"/>
+    <id>https://dailylist.github.io/channels/1973284/posts/ck2mq4n6j0000rcyn9r9a4ob9/</id>
+    <published>2019-11-06T03:30:53.000Z</published>
+    <updated>2019-11-06T03:30:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="link-preview_container cqUyOs"><a href="https://lusongsong.com/reed/9569.html" class="link-preview" target="_blank" rel="noopener" title="资深站长干货：小说网站从建立到盈利全解析-卢松松博客"><div class="link-area"><div class="og-image"><img src="https://images.weserv.nl/?url=https%3A%2F%2Flusongsong.com%2Freed%2Flusongsong.com%2Fzb_users%2Ftheme%2FLuSongSong%2Fstyle%2Ficon%2Fhome.png&w=600" class="preview-image" title="资深站长干货：小说网站从建立到盈利全解析-卢松松博客"></div><div class="descriptions"><div class="og-title"><h2 title="资深站长干货：小说网站从建立到盈利全解析-卢松松博客">资深站长干货：小说网站从建立到盈利全解析-卢松松博客</h2></div><div class="og-sitename"><p title="lusongsong.com">lusongsong.com</p></div></div></div></a></div>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div class=&quot;link-preview_container cqUyOs&quot;&gt;&lt;a href=&quot;https://lusongsong.com/reed/9569.html&quot; class=&quot;link-preview&quot; target=&quot;_blank&quot; rel=&quot;noopene
+      
+    
+    </summary>
+    
+    
+    
+      <category term="小说站" scheme="https://dailylist.github.io/channels/1973284/tags/%E5%B0%8F%E8%AF%B4%E7%AB%99/"/>
+    
+  </entry>
+  
+</feed>
